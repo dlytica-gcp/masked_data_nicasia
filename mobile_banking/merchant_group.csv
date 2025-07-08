@@ -1,0 +1,9 @@
+id,code,icon,active,group_name,offer_text,sort_order,description,unicode_name,display_position,unicode_description,updated_at
+1,MPAY,merchant-group/bill-payment.png,Y,Credit Card,,0,Bill Payment to registered merchants,,"mainmenu,payment",,2024-08-07 07:05:25.979
+2,TOPUP,other-payments.png,Y,Topup,,4,Topup payment,,payment,,2024-08-07 07:05:25.979
+3,RC,card.png,Y,Recharge Card,,5,Recharge various recharge vouchers,,payment,,2024-08-07 07:05:25.979
+4,WAL,wallet-topup.png,Y,Load Wallet,,2,Load Wallet,,payment,,2024-08-07 07:05:25.979
+5,DATA_PACKAGE,data-pack.png,Y,Data Package,,6,Data Package,,payment,,2024-08-07 07:05:25.979
+6,CLW_CUSTOM,card.png,Y,Cardless Withdraw,,7,"Cardless Withdraw
+",,payment,,2024-08-07 07:05:25.979
+8,ICASH,iCash.png,Y,iCash Wallet,,6,iCash Wallet,unicode,payment,,2024-08-07 07:05:25.979

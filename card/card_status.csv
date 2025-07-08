@@ -1,0 +1,17 @@
+cst_code,cst_labe,updated_at
+1,In Instance,2024-08-07 07:04:05.154
+2,Active,2024-08-07 07:04:05.154
+3,Blocked,2024-08-07 07:04:05.154
+4,Hold,2024-08-07 07:04:05.154
+5,Inactive,2024-08-07 07:04:05.154
+6,Cancelled,2024-08-07 07:04:05.154
+7,Replaced,2024-08-07 07:04:05.154
+8,Ready For Personalization,2024-08-07 07:04:05.154
+9,Permanent Block,2024-08-07 07:04:05.154
+10,Wrong Pin Block ,2024-08-07 07:04:05.154
+11,Force Pin Change,2024-08-07 07:04:05.154
+12,Do Not Honour,2024-08-07 07:04:05.154
+13,Credit Debts,2024-08-07 07:04:05.154
+14,Call Issuer,2024-08-07 07:04:05.154
+15,Card Lost,2024-08-07 07:04:05.154
+16,Forceful Pin Change,2024-08-07 07:04:05.154

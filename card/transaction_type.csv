@@ -1,0 +1,58 @@
+tty_type_code,tty_type_iden,tty_type_labe,updated_at
+1,0,Goods/Service Purchase,2024-08-07 07:05:17.676
+2,1,Withdrawal,2024-08-07 07:05:17.676
+3,2,Debit Adjustment,2024-08-07 07:05:17.676
+4,3,Check Guarantee,2024-08-07 07:05:17.676
+5,4,Check Verification,2024-08-07 07:05:17.676
+6,5,Eurocheck,2024-08-07 07:05:17.676
+7,6,Traveler's Check,2024-08-07 07:05:17.676
+8,7,Letter of Credit,2024-08-07 07:05:17.676
+9,8,Funds Wire,2024-08-07 07:05:17.676
+10,9,Cash Back,2024-08-07 07:05:17.676
+11,11,Quasi Cash,2024-08-07 07:05:17.676
+12,17,Cash Advance,2024-08-07 07:05:17.676
+13,18,Document deposit,2024-08-07 07:05:17.676
+14,19,Fee Collection - Debit,2024-08-07 07:05:17.676
+15,20,Refund (Purchase Return),2024-08-07 07:05:17.676
+16,21,Deposit,2024-08-07 07:05:17.676
+17,22,Credit Adjustment,2024-08-07 07:05:17.676
+18,23,Check Deposit Guarantee,2024-08-07 07:05:17.676
+19,24,Check Deposit,2024-08-07 07:05:17.676
+20,29,Funds disbursement,2024-08-07 07:05:17.676
+21,30,Authentication Request,2024-08-07 07:05:17.676
+22,31,Balance Inquiry,2024-08-07 07:05:17.676
+23,32,Address Verification,2024-08-07 07:05:17.676
+24,33,Tele Code Verification,2024-08-07 07:05:17.676
+25,34,RIB Request,2024-08-07 07:05:17.676
+26,35,Account List,2024-08-07 07:05:17.676
+27,36,ATM Statement,2024-08-07 07:05:17.676
+28,37,Statement Request,2024-08-07 07:05:17.676
+29,38,Short Statement Request,2024-08-07 07:05:17.676
+30,39,Checkbook Request,2024-08-07 07:05:17.676
+31,40,Account Transfer,2024-08-07 07:05:17.676
+32,50,Bill Payment Card,2024-08-07 07:05:17.676
+33,58,Account Verification (ePay),2024-08-07 07:05:17.676
+34,59,Payment Return (ePay),2024-08-07 07:05:17.676
+36,91,PIN Change Request,2024-08-07 07:05:17.676
+37,92,Loan Request,2024-08-07 07:05:17.676
+38,93,Loan Refund,2024-08-07 07:05:17.676
+39,94,Redemption,2024-08-07 07:05:17.676
+40,68,Pre-Authorisation,2024-08-07 07:05:17.676
+41,90,PIN Change,2024-08-07 07:05:17.676
+42,44,MoneySend,2024-08-07 07:05:17.676
+43,51,Bill Payment Cash,2024-08-07 07:05:17.676
+44,60,Top-Up Card,2024-08-07 07:05:17.676
+45,70,Online E-Voucher Cash,2024-08-07 07:05:17.676
+46,71,Online E-Voucher Card,2024-08-07 07:05:17.676
+47,72,Offline E-Voucher Card,2024-08-07 07:05:17.676
+48,73,Offline E-Voucher Cash,2024-08-07 07:05:17.676
+49,25,Cash In,2024-08-07 07:05:17.676
+50,26,VMT Trx,2024-08-07 07:05:17.676
+51,61,Top-Up Cash,2024-08-07 07:05:17.676
+52,42,Salary Balance Inquiry,2024-08-07 07:05:17.676
+53,78,NOK TRS,2024-08-07 07:05:17.676
+54,52,Bill Inquiry,2024-08-07 07:05:17.676
+55,15,Salary Withdrawal,2024-08-07 07:05:17.676
+62,10,AFT Purchase,2024-08-07 07:05:17.676
+63,43,Cardless withdrawal,2024-08-07 07:05:17.676
+228,28,Payment Transaction MCI,2024-08-07 07:05:17.676

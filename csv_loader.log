@@ -1,0 +1,1257 @@
+2025-07-02 16:52:26,720 - INFO - Starting PostgreSQL CSV Loader
+2025-07-02 16:52:26,721 - INFO - Configuration: http://datanature-k3s-vm.eastus.cloudapp.azure.com:30100/ai360
+2025-07-02 16:52:26,722 - ERROR - Failed to connect to database: invalid literal for int() with base 10: ''
+2025-07-02 16:52:26,722 - ERROR - Failed to connect to database. Please check your configuration.
+2025-07-02 16:52:26,722 - INFO - Database connection closed
+2025-07-02 17:16:16,771 - INFO - Starting PostgreSQL CSV Loader
+2025-07-02 17:16:16,772 - INFO - Configuration: http://datanature-k3s-vm.eastus.cloudapp.azure.com:30100/ai360
+2025-07-02 17:16:16,772 - ERROR - Failed to connect to database: invalid literal for int() with base 10: ''
+2025-07-02 17:16:16,791 - ERROR - Failed to connect to database. Please check your configuration.
+2025-07-02 17:16:16,791 - INFO - Database connection closed
+2025-07-02 17:59:19,735 - INFO - Starting PostgreSQL CSV Loader
+2025-07-02 17:59:19,736 - INFO - Configuration: datanature-k3s-vm.eastus.cloudapp.azure.com:30100/ai360
+2025-07-02 17:59:25,416 - INFO - Successfully connected to PostgreSQL database: ai360
+2025-07-02 17:59:25,417 - INFO - Starting CSV loading process from: D:\New folder (2)\postgres_dump
+2025-07-02 17:59:25,417 - INFO - 
+==================================================
+2025-07-02 17:59:25,418 - INFO - Processing folder: crmuser
+2025-07-02 17:59:25,418 - INFO - Schema: crmuser
+2025-07-02 17:59:25,418 - INFO - ==================================================
+2025-07-02 17:59:26,318 - INFO - Schema 'crmuser' ready
+2025-07-02 17:59:26,320 - INFO - Found 10 CSV files
+2025-07-02 17:59:26,320 - INFO - 
+[1/10] Processing: account.csv
+2025-07-02 17:59:26,321 - INFO - Processing: account.csv
+2025-07-02 17:59:26,410 - INFO - File info - Columns: 489, Sample rows: 100
+2025-07-02 17:59:31,293 - INFO - Loaded chunk 1 (125 rows)
+2025-07-02 17:59:31,322 - INFO - 
+[2/10] Processing: address.csv
+2025-07-02 17:59:31,323 - INFO - Processing: address.csv
+2025-07-02 17:59:31,366 - INFO - File info - Columns: 131, Sample rows: 100
+2025-07-02 17:59:34,613 - INFO - Loaded chunk 1 (387 rows)
+2025-07-02 17:59:34,617 - INFO - 
+[3/10] Processing: categories.csv
+2025-07-02 17:59:34,618 - INFO - Processing: categories.csv
+2025-07-02 17:59:34,644 - INFO - File info - Columns: 23, Sample rows: 100
+2025-07-02 18:00:11,716 - INFO - 
+[4/10] Processing: category_lang.csv
+2025-07-02 18:00:11,717 - INFO - Processing: category_lang.csv
+2025-07-02 18:00:11,737 - INFO - File info - Columns: 10, Sample rows: 100
+2025-07-02 18:00:37,291 - INFO - Loaded chunk 1 (10000 rows)
+2025-07-02 18:00:44,154 - INFO - Loaded chunk 2 (10000 rows)
+2025-07-02 18:00:48,347 - INFO - Loaded chunk 3 (10000 rows)
+2025-07-02 18:00:52,443 - INFO - Loaded chunk 4 (10000 rows)
+2025-07-02 18:00:56,536 - INFO - Loaded chunk 5 (10000 rows)
+2025-07-02 18:00:58,688 - INFO - Loaded chunk 6 (2986 rows)
+2025-07-02 18:00:58,694 - INFO - 
+[5/10] Processing: cem.csv
+2025-07-02 18:00:58,695 - INFO - Processing: cem.csv
+2025-07-02 18:00:58,718 - INFO - File info - Columns: 14, Sample rows: 5
+2025-07-02 18:01:00,531 - INFO - Loaded chunk 1 (5 rows)
+2025-07-02 18:01:00,534 - INFO - 
+[6/10] Processing: cmg.csv
+2025-07-02 18:01:00,534 - INFO - Processing: cmg.csv
+2025-07-02 18:01:00,586 - INFO - File info - Columns: 98, Sample rows: 100
+2025-07-02 18:01:02,384 - INFO - Loaded chunk 1 (100 rows)
+2025-07-02 18:01:02,388 - INFO - 
+[7/10] Processing: corporate.csv
+2025-07-02 18:01:02,388 - INFO - Processing: corporate.csv
+2025-07-02 18:01:02,432 - INFO - File info - Columns: 376, Sample rows: 54
+2025-07-02 18:01:04,831 - INFO - Loaded chunk 1 (54 rows)
+2025-07-02 18:01:04,836 - INFO - 
+[8/10] Processing: demographic.csv
+2025-07-02 18:01:04,836 - INFO - Processing: demographic.csv
+2025-07-02 18:01:04,860 - INFO - File info - Columns: 246, Sample rows: 71
+2025-07-02 18:01:07,085 - INFO - Loaded chunk 1 (71 rows)
+2025-07-02 18:01:07,090 - INFO - 
+[9/10] Processing: entitydocument.csv
+2025-07-02 18:01:07,091 - INFO - Processing: entitydocument.csv
+2025-07-02 18:01:07,121 - INFO - File info - Columns: 70, Sample rows: 100
+2025-07-02 18:01:09,131 - INFO - Loaded chunk 1 (175 rows)
+2025-07-02 18:01:09,135 - INFO - 
+[10/10] Processing: phoneemail.csv
+2025-07-02 18:01:09,136 - INFO - Processing: phoneemail.csv
+2025-07-02 18:01:09,173 - INFO - File info - Columns: 33, Sample rows: 100
+2025-07-02 18:01:11,079 - INFO - Loaded chunk 1 (318 rows)
+2025-07-02 18:01:11,082 - INFO - 
+==================================================
+2025-07-02 18:01:11,083 - INFO - Processing folder: custom
+2025-07-02 18:01:11,083 - INFO - Schema: custom
+2025-07-02 18:01:11,083 - INFO - ==================================================
+2025-07-02 18:01:12,000 - INFO - Schema 'custom' ready
+2025-07-02 18:01:12,001 - INFO - Found 9 CSV files
+2025-07-02 18:01:12,001 - INFO - 
+[1/9] Processing: c_loan_pen_int.csv
+2025-07-02 18:01:12,001 - INFO - Processing: c_loan_pen_int.csv
+2025-07-02 18:01:12,057 - INFO - File info - Columns: 13, Sample rows: 100
+2025-07-02 18:01:15,480 - INFO - Loaded chunk 1 (5132 rows)
+2025-07-02 18:01:15,489 - INFO - 
+[2/9] Processing: c_oda_pen_int.csv
+2025-07-02 18:01:15,495 - INFO - Processing: c_oda_pen_int.csv
+2025-07-02 18:01:15,510 - INFO - File info - Columns: 12, Sample rows: 100
+2025-07-02 18:01:18,553 - INFO - Loaded chunk 1 (4690 rows)
+2025-07-02 18:01:18,559 - INFO - 
+[3/9] Processing: c_relparty_details.csv
+2025-07-02 18:01:18,561 - INFO - Processing: c_relparty_details.csv
+2025-07-02 18:01:18,612 - INFO - File info - Columns: 50, Sample rows: 100
+2025-07-02 18:01:20,653 - INFO - Loaded chunk 1 (429 rows)
+2025-07-02 18:01:20,659 - INFO - 
+[4/9] Processing: date.csv
+2025-07-02 18:01:20,664 - INFO - Processing: date.csv
+2025-07-02 18:01:20,691 - INFO - File info - Columns: 73, Sample rows: 100
+2025-07-02 18:01:55,774 - INFO - 
+[5/9] Processing: kyc_details.csv
+2025-07-02 18:01:55,775 - INFO - Processing: kyc_details.csv
+2025-07-02 18:01:55,796 - INFO - File info - Columns: 39, Sample rows: 71
+2025-07-02 18:02:16,779 - INFO - 
+[6/9] Processing: lmis.csv
+2025-07-02 18:02:16,779 - INFO - Processing: lmis.csv
+2025-07-02 18:02:16,818 - INFO - File info - Columns: 58, Sample rows: 52
+2025-07-02 18:02:36,390 - INFO - Loaded chunk 1 (52 rows)
+2025-07-02 18:02:36,393 - INFO - 
+[7/9] Processing: overdue_code_table.csv
+2025-07-02 18:02:36,394 - INFO - Processing: overdue_code_table.csv
+2025-07-02 18:02:36,415 - INFO - File info - Columns: 10, Sample rows: 13
+2025-07-02 18:02:38,017 - INFO - Loaded chunk 1 (13 rows)
+2025-07-02 18:02:38,029 - INFO - 
+[8/9] Processing: products.csv
+2025-07-02 18:02:38,030 - INFO - Processing: products.csv
+2025-07-02 18:02:38,051 - INFO - File info - Columns: 6, Sample rows: 100
+2025-07-02 18:02:39,659 - INFO - Loaded chunk 1 (100 rows)
+2025-07-02 18:02:39,662 - INFO - 
+[9/9] Processing: province.csv
+2025-07-02 18:02:39,663 - INFO - Processing: province.csv
+2025-07-02 18:02:39,707 - INFO - File info - Columns: 8, Sample rows: 100
+2025-07-02 18:02:41,617 - INFO - Loaded chunk 1 (361 rows)
+2025-07-02 18:02:41,622 - INFO - 
+==================================================
+2025-07-02 18:02:41,623 - INFO - Processing folder: tbaadm
+2025-07-02 18:02:41,623 - INFO - Schema: tbaadmin
+2025-07-02 18:02:41,623 - INFO - ==================================================
+2025-07-02 18:02:42,524 - INFO - Schema 'tbaadmin' ready
+2025-07-02 18:02:42,526 - INFO - Found 42 CSV files
+2025-07-02 18:02:42,526 - INFO - 
+[1/42] Processing: account_lien_table.csv
+2025-07-02 18:02:42,526 - INFO - Processing: account_lien_table.csv
+2025-07-02 18:02:42,569 - INFO - File info - Columns: 27, Sample rows: 65
+2025-07-02 18:02:44,335 - INFO - Loaded chunk 1 (65 rows)
+2025-07-02 18:02:44,339 - INFO - 
+[2/42] Processing: acct_nomination_table.csv
+2025-07-02 18:02:44,342 - INFO - Processing: acct_nomination_table.csv
+2025-07-02 18:02:44,405 - INFO - File info - Columns: 53, Sample rows: 100
+2025-07-02 18:02:51,025 - INFO - Loaded chunk 1 (2461 rows)
+2025-07-02 18:02:51,045 - INFO - 
+[3/42] Processing: bg_event_table.csv
+2025-07-02 18:02:51,049 - INFO - Processing: bg_event_table.csv
+2025-07-02 18:02:51,102 - INFO - File info - Columns: 62, Sample rows: 100
+2025-07-02 18:02:56,216 - INFO - Loaded chunk 1 (2121 rows)
+2025-07-02 18:02:56,221 - INFO - 
+[4/42] Processing: bg_master_table.csv
+2025-07-02 18:02:56,222 - INFO - Processing: bg_master_table.csv
+2025-07-02 18:02:56,276 - INFO - File info - Columns: 154, Sample rows: 100
+2025-07-02 18:03:00,752 - INFO - Loaded chunk 1 (692 rows)
+2025-07-02 18:03:00,758 - INFO - 
+[5/42] Processing: ccod_acct_mast_table.csv
+2025-07-02 18:03:00,759 - INFO - Processing: ccod_acct_mast_table.csv
+2025-07-02 18:03:00,803 - INFO - File info - Columns: 44, Sample rows: 100
+2025-07-02 18:03:02,834 - INFO - Loaded chunk 1 (123 rows)
+2025-07-02 18:03:02,839 - INFO - 
+[6/42] Processing: crncy_schm_parm_tbl.csv
+2025-07-02 18:03:02,840 - INFO - Processing: crncy_schm_parm_tbl.csv
+2025-07-02 18:03:02,879 - INFO - File info - Columns: 146, Sample rows: 100
+2025-07-02 18:03:12,536 - INFO - Loaded chunk 1 (2131 rows)
+2025-07-02 18:03:12,549 - INFO - 
+[7/42] Processing: dc_events_table.csv
+2025-07-02 18:03:12,561 - INFO - Processing: dc_events_table.csv
+2025-07-02 18:03:12,615 - INFO - File info - Columns: 123, Sample rows: 100
+2025-07-02 18:03:18,365 - INFO - Loaded chunk 1 (1378 rows)
+2025-07-02 18:03:18,372 - INFO - 
+[8/42] Processing: dc_mast_main_table.csv
+2025-07-02 18:03:18,375 - INFO - Processing: dc_mast_main_table.csv
+2025-07-02 18:03:18,431 - INFO - File info - Columns: 233, Sample rows: 100
+2025-07-02 18:03:21,377 - INFO - Loaded chunk 1 (212 rows)
+2025-07-02 18:03:21,382 - INFO - 
+[9/42] Processing: drwng_power_hist_tbl.csv
+2025-07-02 18:03:21,382 - INFO - Processing: drwng_power_hist_tbl.csv
+2025-07-02 18:03:21,436 - INFO - File info - Columns: 28, Sample rows: 100
+2025-07-02 18:03:24,509 - INFO - Loaded chunk 1 (1881 rows)
+2025-07-02 18:03:24,516 - INFO - 
+[10/42] Processing: entity_interest_table.csv
+2025-07-02 18:03:24,519 - INFO - Processing: entity_interest_table.csv
+2025-07-02 18:03:24,584 - INFO - File info - Columns: 169, Sample rows: 100
+2025-07-02 18:03:59,957 - INFO - 
+[11/42] Processing: eod_acct_bal_table.csv
+2025-07-02 18:03:59,961 - INFO - Processing: eod_acct_bal_table.csv
+2025-07-02 18:04:00,028 - INFO - File info - Columns: 21, Sample rows: 100
+2025-07-02 18:05:18,902 - INFO - 
+[12/42] Processing: general_acct_mast_table.csv
+2025-07-02 18:05:18,910 - INFO - Processing: general_acct_mast_table.csv
+2025-07-02 18:05:19,910 - INFO - File info - Columns: 188, Sample rows: 100
+2025-07-02 18:06:10,327 - INFO - 
+[13/42] Processing: general_margin_history.csv
+2025-07-02 18:06:10,328 - INFO - Processing: general_margin_history.csv
+2025-07-02 18:06:10,376 - INFO - File info - Columns: 35, Sample rows: 100
+2025-07-02 18:06:32,579 - INFO - 
+[14/42] Processing: gen_acct_class_table.csv
+2025-07-02 18:06:32,580 - INFO - Processing: gen_acct_class_table.csv
+2025-07-02 18:06:32,637 - INFO - File info - Columns: 97, Sample rows: 100
+2025-07-02 18:06:53,811 - INFO - 
+[15/42] Processing: gen_schm_parm_table.csv
+2025-07-02 18:06:53,812 - INFO - Processing: gen_schm_parm_table.csv
+2025-07-02 18:06:54,251 - INFO - File info - Columns: 281, Sample rows: 100
+2025-07-02 18:07:39,258 - INFO - 
+[16/42] Processing: hist_tran_dtl_table.csv
+2025-07-02 18:07:39,259 - INFO - Processing: hist_tran_dtl_table.csv
+2025-07-02 18:07:39,316 - INFO - File info - Columns: 99, Sample rows: 100
+2025-07-02 18:08:00,481 - INFO - Process interrupted by user
+2025-07-02 18:08:00,482 - INFO - Database connection closed
+2025-07-02 18:10:38,110 - INFO - Starting PostgreSQL CSV Loader
+2025-07-02 18:10:38,110 - INFO - Configuration: datanature-k3s-vm.eastus.cloudapp.azure.com:30100/ai360
+2025-07-02 18:10:43,823 - INFO - Successfully connected to PostgreSQL database: ai360
+2025-07-02 18:10:43,824 - INFO - Starting CSV loading process from: D:\New folder (2)\postgres_dump
+2025-07-02 18:10:43,824 - INFO - 
+==================================================
+2025-07-02 18:10:43,825 - INFO - Processing folder: crmuser
+2025-07-02 18:10:43,825 - INFO - Schema: crmuser
+2025-07-02 18:10:43,825 - INFO - ==================================================
+2025-07-02 18:10:44,725 - INFO - Schema 'crmuser' ready
+2025-07-02 18:10:44,726 - INFO - Found 10 CSV files
+2025-07-02 18:10:44,727 - INFO - 
+[1/10] Processing: account.csv
+2025-07-02 18:10:44,727 - INFO - Processing: account.csv
+2025-07-02 18:10:44,759 - INFO - File info - Columns: 489, Sample rows: 100
+2025-07-02 18:10:49,660 - INFO - Loaded chunk 1 (125 rows)
+2025-07-02 18:10:49,674 - INFO - 
+[2/10] Processing: address.csv
+2025-07-02 18:10:49,674 - INFO - Processing: address.csv
+2025-07-02 18:10:49,685 - INFO - File info - Columns: 131, Sample rows: 100
+2025-07-02 18:10:52,737 - INFO - Loaded chunk 1 (387 rows)
+2025-07-02 18:10:52,741 - INFO - 
+[3/10] Processing: categories.csv
+2025-07-02 18:10:52,741 - INFO - Processing: categories.csv
+2025-07-02 18:10:52,749 - INFO - File info - Columns: 23, Sample rows: 100
+2025-07-02 18:11:00,716 - INFO - Loaded chunk 1 (10000 rows)
+2025-07-02 18:11:07,783 - INFO - Loaded chunk 2 (10000 rows)
+2025-07-02 18:11:15,359 - INFO - Loaded chunk 3 (10000 rows)
+2025-07-02 18:11:22,224 - INFO - Loaded chunk 4 (10000 rows)
+2025-07-02 18:11:29,394 - INFO - Loaded chunk 5 (10000 rows)
+2025-07-02 18:11:32,610 - INFO - Loaded chunk 6 (3028 rows)
+2025-07-02 18:11:32,615 - INFO - 
+[4/10] Processing: category_lang.csv
+2025-07-02 18:11:32,616 - INFO - Processing: category_lang.csv
+2025-07-02 18:11:32,624 - INFO - File info - Columns: 10, Sample rows: 100
+2025-07-02 18:11:37,072 - INFO - Loaded chunk 1 (10000 rows)
+2025-07-02 18:11:41,166 - INFO - Loaded chunk 2 (10000 rows)
+2025-07-02 18:11:45,260 - INFO - Loaded chunk 3 (10000 rows)
+2025-07-02 18:11:49,152 - INFO - Loaded chunk 4 (10000 rows)
+2025-07-02 18:11:55,799 - INFO - Loaded chunk 5 (10000 rows)
+2025-07-02 18:11:58,371 - INFO - Loaded chunk 6 (2986 rows)
+2025-07-02 18:11:58,374 - INFO - 
+[5/10] Processing: cem.csv
+2025-07-02 18:11:58,375 - INFO - Processing: cem.csv
+2025-07-02 18:11:58,378 - INFO - File info - Columns: 14, Sample rows: 5
+2025-07-02 18:12:00,211 - INFO - Loaded chunk 1 (5 rows)
+2025-07-02 18:12:00,215 - INFO - 
+[6/10] Processing: cmg.csv
+2025-07-02 18:12:00,215 - INFO - Processing: cmg.csv
+2025-07-02 18:12:00,223 - INFO - File info - Columns: 98, Sample rows: 100
+2025-07-02 18:12:02,669 - INFO - Loaded chunk 1 (100 rows)
+2025-07-02 18:12:02,673 - INFO - 
+[7/10] Processing: corporate.csv
+2025-07-02 18:12:02,674 - INFO - Processing: corporate.csv
+2025-07-02 18:12:02,695 - INFO - File info - Columns: 376, Sample rows: 54
+2025-07-02 18:12:05,232 - INFO - Loaded chunk 1 (54 rows)
+2025-07-02 18:12:05,240 - INFO - 
+[8/10] Processing: demographic.csv
+2025-07-02 18:12:05,240 - INFO - Processing: demographic.csv
+2025-07-02 18:12:05,256 - INFO - File info - Columns: 246, Sample rows: 71
+2025-07-02 18:12:07,482 - INFO - Loaded chunk 1 (71 rows)
+2025-07-02 18:12:07,488 - INFO - 
+[9/10] Processing: entitydocument.csv
+2025-07-02 18:12:07,488 - INFO - Processing: entitydocument.csv
+2025-07-02 18:12:07,496 - INFO - File info - Columns: 70, Sample rows: 100
+2025-07-02 18:12:09,447 - INFO - Loaded chunk 1 (175 rows)
+2025-07-02 18:12:09,453 - INFO - 
+[10/10] Processing: phoneemail.csv
+2025-07-02 18:12:09,453 - INFO - Processing: phoneemail.csv
+2025-07-02 18:12:09,459 - INFO - File info - Columns: 33, Sample rows: 100
+2025-07-02 18:12:11,481 - INFO - Loaded chunk 1 (318 rows)
+2025-07-02 18:12:11,487 - INFO - 
+==================================================
+2025-07-02 18:12:11,487 - INFO - Processing folder: custom
+2025-07-02 18:12:11,487 - INFO - Schema: custom
+2025-07-02 18:12:11,488 - INFO - ==================================================
+2025-07-02 18:12:12,502 - INFO - Schema 'custom' ready
+2025-07-02 18:12:12,503 - INFO - Found 9 CSV files
+2025-07-02 18:12:12,503 - INFO - 
+[1/9] Processing: c_loan_pen_int.csv
+2025-07-02 18:12:12,503 - INFO - Processing: c_loan_pen_int.csv
+2025-07-02 18:12:12,511 - INFO - File info - Columns: 13, Sample rows: 100
+2025-07-02 18:12:16,086 - INFO - Loaded chunk 1 (5132 rows)
+2025-07-02 18:12:16,091 - INFO - 
+[2/9] Processing: c_oda_pen_int.csv
+2025-07-02 18:12:16,092 - INFO - Processing: c_oda_pen_int.csv
+2025-07-02 18:12:16,099 - INFO - File info - Columns: 12, Sample rows: 100
+2025-07-02 18:12:19,377 - INFO - Loaded chunk 1 (4690 rows)
+2025-07-02 18:12:19,386 - INFO - 
+[3/9] Processing: c_relparty_details.csv
+2025-07-02 18:12:19,386 - INFO - Processing: c_relparty_details.csv
+2025-07-02 18:12:19,397 - INFO - File info - Columns: 50, Sample rows: 100
+2025-07-02 18:12:21,617 - INFO - Loaded chunk 1 (429 rows)
+2025-07-02 18:12:21,621 - INFO - 
+[4/9] Processing: date.csv
+2025-07-02 18:12:21,622 - INFO - Processing: date.csv
+2025-07-02 18:12:21,631 - INFO - File info - Columns: 73, Sample rows: 100
+2025-07-02 18:12:44,767 - INFO - 
+[5/9] Processing: kyc_details.csv
+2025-07-02 18:12:44,767 - INFO - Processing: kyc_details.csv
+2025-07-02 18:12:44,775 - INFO - File info - Columns: 39, Sample rows: 71
+2025-07-02 18:13:05,919 - INFO - 
+[6/9] Processing: lmis.csv
+2025-07-02 18:13:05,920 - INFO - Processing: lmis.csv
+2025-07-02 18:13:05,927 - INFO - File info - Columns: 58, Sample rows: 52
+2025-07-02 18:13:27,086 - INFO - 
+[7/9] Processing: overdue_code_table.csv
+2025-07-02 18:13:27,087 - INFO - Processing: overdue_code_table.csv
+2025-07-02 18:13:27,089 - INFO - File info - Columns: 10, Sample rows: 13
+2025-07-02 18:13:48,134 - INFO - 
+[8/9] Processing: products.csv
+2025-07-02 18:13:48,134 - INFO - Processing: products.csv
+2025-07-02 18:13:48,138 - INFO - File info - Columns: 6, Sample rows: 100
+2025-07-02 18:14:09,179 - INFO - 
+[9/9] Processing: province.csv
+2025-07-02 18:14:09,179 - INFO - Processing: province.csv
+2025-07-02 18:14:09,182 - INFO - File info - Columns: 8, Sample rows: 100
+2025-07-02 18:14:30,270 - INFO - 
+==================================================
+2025-07-02 18:14:30,270 - INFO - Processing folder: tbaadm
+2025-07-02 18:14:30,270 - INFO - Schema: tbaadm
+2025-07-02 18:14:30,270 - INFO - ==================================================
+2025-07-02 18:14:51,313 - ERROR - Failed to create schema tbaadm: (psycopg2.OperationalError) connection to server at "datanature-k3s-vm.eastus.cloudapp.azure.com" (4.227.181.56), port 30100 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02 18:14:51,314 - INFO - Found 42 CSV files
+2025-07-02 18:14:51,314 - INFO - 
+[1/42] Processing: account_lien_table.csv
+2025-07-02 18:14:51,315 - INFO - Processing: account_lien_table.csv
+2025-07-02 18:14:51,319 - INFO - File info - Columns: 27, Sample rows: 65
+2025-07-02 18:15:13,033 - INFO - 
+[2/42] Processing: acct_nomination_table.csv
+2025-07-02 18:15:13,034 - INFO - Processing: acct_nomination_table.csv
+2025-07-02 18:15:13,046 - INFO - File info - Columns: 53, Sample rows: 100
+2025-07-02 18:15:34,172 - INFO - 
+[3/42] Processing: bg_event_table.csv
+2025-07-02 18:15:34,172 - INFO - Processing: bg_event_table.csv
+2025-07-02 18:15:34,182 - INFO - File info - Columns: 62, Sample rows: 100
+2025-07-02 18:15:52,302 - INFO - 
+[4/42] Processing: bg_master_table.csv
+2025-07-02 18:15:52,302 - INFO - Processing: bg_master_table.csv
+2025-07-02 18:15:52,319 - INFO - File info - Columns: 154, Sample rows: 100
+2025-07-02 18:15:53,707 - INFO - 
+[5/42] Processing: ccod_acct_mast_table.csv
+2025-07-02 18:15:53,708 - INFO - Processing: ccod_acct_mast_table.csv
+2025-07-02 18:15:53,718 - INFO - File info - Columns: 44, Sample rows: 100
+2025-07-02 18:15:55,038 - INFO - 
+[6/42] Processing: crncy_schm_parm_tbl.csv
+2025-07-02 18:15:55,038 - INFO - Processing: crncy_schm_parm_tbl.csv
+2025-07-02 18:15:55,052 - INFO - File info - Columns: 146, Sample rows: 100
+2025-07-02 18:15:56,473 - INFO - 
+[7/42] Processing: dc_events_table.csv
+2025-07-02 18:15:56,473 - INFO - Processing: dc_events_table.csv
+2025-07-02 18:15:56,488 - INFO - File info - Columns: 123, Sample rows: 100
+2025-07-02 18:15:57,908 - INFO - 
+[8/42] Processing: dc_mast_main_table.csv
+2025-07-02 18:15:57,912 - INFO - Processing: dc_mast_main_table.csv
+2025-07-02 18:15:57,935 - INFO - File info - Columns: 233, Sample rows: 100
+2025-07-02 18:15:59,345 - INFO - 
+[9/42] Processing: drwng_power_hist_tbl.csv
+2025-07-02 18:15:59,345 - INFO - Processing: drwng_power_hist_tbl.csv
+2025-07-02 18:15:59,360 - INFO - File info - Columns: 28, Sample rows: 100
+2025-07-02 18:16:00,669 - INFO - 
+[10/42] Processing: entity_interest_table.csv
+2025-07-02 18:16:00,670 - INFO - Processing: entity_interest_table.csv
+2025-07-02 18:16:00,688 - INFO - File info - Columns: 169, Sample rows: 100
+2025-07-02 18:16:02,221 - INFO - 
+[11/42] Processing: eod_acct_bal_table.csv
+2025-07-02 18:16:02,222 - INFO - Processing: eod_acct_bal_table.csv
+2025-07-02 18:16:02,232 - INFO - File info - Columns: 21, Sample rows: 100
+2025-07-02 18:16:03,506 - INFO - 
+[12/42] Processing: general_acct_mast_table.csv
+2025-07-02 18:16:03,506 - INFO - Processing: general_acct_mast_table.csv
+2025-07-02 18:16:03,526 - INFO - File info - Columns: 188, Sample rows: 100
+2025-07-02 18:16:05,133 - INFO - 
+[13/42] Processing: general_margin_history.csv
+2025-07-02 18:16:05,134 - INFO - Processing: general_margin_history.csv
+2025-07-02 18:16:05,143 - INFO - File info - Columns: 35, Sample rows: 100
+2025-07-02 18:16:07,110 - INFO - 
+[14/42] Processing: gen_acct_class_table.csv
+2025-07-02 18:16:07,111 - INFO - Processing: gen_acct_class_table.csv
+2025-07-02 18:16:07,122 - INFO - File info - Columns: 97, Sample rows: 100
+2025-07-02 18:16:08,761 - INFO - 
+[15/42] Processing: gen_schm_parm_table.csv
+2025-07-02 18:16:08,762 - INFO - Processing: gen_schm_parm_table.csv
+2025-07-02 18:16:08,792 - INFO - File info - Columns: 281, Sample rows: 100
+2025-07-02 18:16:10,424 - INFO - 
+[16/42] Processing: hist_tran_dtl_table.csv
+2025-07-02 18:16:10,433 - INFO - Processing: hist_tran_dtl_table.csv
+2025-07-02 18:16:10,446 - INFO - File info - Columns: 99, Sample rows: 100
+2025-07-02 18:16:11,840 - INFO - 
+[17/42] Processing: interest_details_table.csv
+2025-07-02 18:16:11,840 - INFO - Processing: interest_details_table.csv
+2025-07-02 18:16:11,851 - INFO - File info - Columns: 46, Sample rows: 100
+2025-07-02 18:16:13,265 - INFO - 
+[18/42] Processing: int_code_version_table.csv
+2025-07-02 18:16:13,266 - INFO - Processing: int_code_version_table.csv
+2025-07-02 18:16:13,273 - INFO - File info - Columns: 26, Sample rows: 100
+2025-07-02 18:16:14,603 - INFO - 
+[19/42] Processing: int_tbl_code_table.csv
+2025-07-02 18:16:14,604 - INFO - Processing: int_tbl_code_table.csv
+2025-07-02 18:16:14,618 - INFO - File info - Columns: 61, Sample rows: 100
+2025-07-02 18:16:16,030 - INFO - 
+[20/42] Processing: int_version_slab_table.csv
+2025-07-02 18:16:16,031 - INFO - Processing: int_version_slab_table.csv
+2025-07-02 18:16:16,040 - INFO - File info - Columns: 27, Sample rows: 100
+2025-07-02 18:16:17,365 - INFO - 
+[21/42] Processing: la_acct_mast_table.csv
+2025-07-02 18:16:17,366 - INFO - Processing: la_acct_mast_table.csv
+2025-07-02 18:16:17,393 - INFO - File info - Columns: 231, Sample rows: 100
+2025-07-02 18:16:19,018 - INFO - 
+[22/42] Processing: la_dmd_adj_table.csv
+2025-07-02 18:16:19,018 - INFO - Processing: la_dmd_adj_table.csv
+2025-07-02 18:16:19,024 - INFO - File info - Columns: 22, Sample rows: 100
+2025-07-02 18:16:20,435 - INFO - 
+[23/42] Processing: la_dmd_history_table.csv
+2025-07-02 18:16:20,436 - INFO - Processing: la_dmd_history_table.csv
+2025-07-02 18:16:20,450 - INFO - File info - Columns: 27, Sample rows: 100
+2025-07-02 18:16:21,777 - INFO - 
+[24/42] Processing: la_dmd_table.csv
+2025-07-02 18:16:21,777 - INFO - Processing: la_dmd_table.csv
+2025-07-02 18:16:21,785 - INFO - File info - Columns: 27, Sample rows: 100
+2025-07-02 18:16:23,095 - INFO - 
+[25/42] Processing: la_int_version_slab_table.csv
+2025-07-02 18:16:23,096 - INFO - Processing: la_int_version_slab_table.csv
+2025-07-02 18:16:23,102 - INFO - File info - Columns: 32, Sample rows: 27
+2025-07-02 18:16:24,441 - INFO - 
+[26/42] Processing: la_rep_shdl_history_table.csv
+2025-07-02 18:16:24,441 - INFO - Processing: la_rep_shdl_history_table.csv
+2025-07-02 18:16:24,453 - INFO - File info - Columns: 41, Sample rows: 100
+2025-07-02 18:16:25,923 - INFO - 
+[27/42] Processing: la_rep_shdl_table.csv
+2025-07-02 18:16:25,923 - INFO - Processing: la_rep_shdl_table.csv
+2025-07-02 18:16:25,931 - INFO - File info - Columns: 41, Sample rows: 100
+2025-07-02 18:16:27,189 - INFO - 
+[28/42] Processing: la_schm_parm_table.csv
+2025-07-02 18:16:27,190 - INFO - Processing: la_schm_parm_table.csv
+2025-07-02 18:16:27,214 - INFO - File info - Columns: 303, Sample rows: 100
+2025-07-02 18:16:28,704 - INFO - 
+[29/42] Processing: la_tran_detail_table.csv
+2025-07-02 18:16:28,705 - INFO - Processing: la_tran_detail_table.csv
+2025-07-02 18:16:28,720 - INFO - File info - Columns: 66, Sample rows: 100
+2025-07-02 18:16:30,275 - INFO - 
+[30/42] Processing: limit_liab_table.csv
+2025-07-02 18:16:30,275 - INFO - Processing: limit_liab_table.csv
+2025-07-02 18:16:30,283 - INFO - File info - Columns: 85, Sample rows: 100
+2025-07-02 18:16:31,799 - INFO - 
+[31/42] Processing: limit_node_history_table.csv
+2025-07-02 18:16:31,799 - INFO - Processing: limit_node_history_table.csv
+2025-07-02 18:16:31,809 - INFO - File info - Columns: 24, Sample rows: 100
+2025-07-02 18:16:33,132 - INFO - 
+[32/42] Processing: lim_history_event_table.csv
+2025-07-02 18:16:33,134 - INFO - Processing: lim_history_event_table.csv
+2025-07-02 18:16:33,145 - INFO - File info - Columns: 15, Sample rows: 100
+2025-07-02 18:16:34,473 - INFO - 
+[33/42] Processing: lim_history_table.csv
+2025-07-02 18:16:34,473 - INFO - Processing: lim_history_table.csv
+2025-07-02 18:16:34,481 - INFO - File info - Columns: 38, Sample rows: 100
+2025-07-02 18:16:35,799 - INFO - 
+[34/42] Processing: ratelist_hist_table.csv
+2025-07-02 18:16:35,800 - INFO - Processing: ratelist_hist_table.csv
+2025-07-02 18:16:35,806 - INFO - File info - Columns: 20, Sample rows: 100
+2025-07-02 18:16:37,334 - INFO - 
+[35/42] Processing: ratelist_table.csv
+2025-07-02 18:16:37,334 - INFO - Processing: ratelist_table.csv
+2025-07-02 18:16:37,341 - INFO - File info - Columns: 25, Sample rows: 100
+2025-07-02 18:16:38,758 - INFO - 
+[36/42] Processing: reference_code_table.csv
+2025-07-02 18:16:38,759 - INFO - Processing: reference_code_table.csv
+2025-07-02 18:16:38,769 - INFO - File info - Columns: 12, Sample rows: 100
+2025-07-02 18:16:40,170 - INFO - 
+[37/42] Processing: sbca_mast_table.csv
+2025-07-02 18:16:40,170 - INFO - Processing: sbca_mast_table.csv
+2025-07-02 18:16:40,177 - INFO - File info - Columns: 34, Sample rows: 100
+2025-07-02 18:16:41,530 - INFO - 
+[38/42] Processing: service_outlet_table.csv
+2025-07-02 18:16:41,531 - INFO - Processing: service_outlet_table.csv
+2025-07-02 18:16:41,555 - INFO - File info - Columns: 126, Sample rows: 100
+2025-07-02 18:16:42,868 - INFO - 
+[39/42] Processing: sol_group_control_table.csv
+2025-07-02 18:16:42,868 - INFO - Processing: sol_group_control_table.csv
+2025-07-02 18:16:42,888 - INFO - File info - Columns: 368, Sample rows: 1
+2025-07-02 18:16:44,504 - INFO - 
+[40/42] Processing: td_acct_master_table.csv
+2025-07-02 18:16:44,504 - INFO - Processing: td_acct_master_table.csv
+2025-07-02 18:16:44,520 - INFO - File info - Columns: 121, Sample rows: 100
+2025-07-02 18:16:45,931 - INFO - 
+[41/42] Processing: tf_address_table.csv
+2025-07-02 18:16:45,931 - INFO - Processing: tf_address_table.csv
+2025-07-02 18:16:45,938 - INFO - File info - Columns: 25, Sample rows: 100
+2025-07-02 18:16:47,262 - INFO - 
+[42/42] Processing: tf_txt_main_table.csv
+2025-07-02 18:16:47,262 - INFO - Processing: tf_txt_main_table.csv
+2025-07-02 18:16:47,269 - INFO - File info - Columns: 14, Sample rows: 100
+2025-07-02 18:16:48,592 - INFO - 
+==================================================
+2025-07-02 18:16:48,593 - INFO - LOADING STATISTICS
+2025-07-02 18:16:48,594 - INFO - ==================================================
+2025-07-02 18:16:48,594 - INFO - Files processed: 13
+2025-07-02 18:16:48,594 - INFO - Tables created: 13
+2025-07-02 18:16:48,594 - INFO - Total rows inserted: 117,500
+2025-07-02 18:16:48,594 - INFO - Errors encountered: 48
+2025-07-02 18:16:48,594 - INFO - ==================================================
+2025-07-02 18:16:48,601 - INFO - Database connection closed
+2025-07-02 18:23:09,749 - INFO - Starting PostgreSQL CSV Loader
+2025-07-02 18:23:09,750 - INFO - Configuration: datanature-k3s-vm.eastus.cloudapp.azure.com:30100/ai360
+2025-07-02 18:23:15,972 - INFO - Successfully connected to PostgreSQL database: ai360
+2025-07-02 18:23:15,972 - INFO - Starting CSV loading process from: D:\New folder (2)\postgres_dump
+2025-07-02 18:23:15,973 - INFO - 
+==================================================
+2025-07-02 18:23:15,973 - INFO - Processing folder: crmuser
+2025-07-02 18:23:15,973 - INFO - Schema: crmuser
+2025-07-02 18:23:15,973 - INFO - ==================================================
+2025-07-02 18:23:16,895 - INFO - Schema 'crmuser' ready
+2025-07-02 18:23:16,896 - INFO - Found 10 CSV files
+2025-07-02 18:23:16,896 - INFO - 
+[1/10] Processing: account.csv
+2025-07-02 18:23:16,897 - INFO - Processing: account.csv
+2025-07-02 18:23:16,921 - INFO - File info - Columns: 489, Sample rows: 100
+2025-07-02 18:23:21,820 - INFO - Loaded chunk 1 (125 rows)
+2025-07-02 18:23:21,821 - INFO -  Successfully loaded 125 rows into crmuser.account
+2025-07-02 18:23:21,822 - INFO - 
+[2/10] Processing: address.csv
+2025-07-02 18:23:21,823 - INFO - Processing: address.csv
+2025-07-02 18:23:21,831 - INFO - File info - Columns: 131, Sample rows: 100
+2025-07-02 18:23:24,583 - INFO - Loaded chunk 1 (387 rows)
+2025-07-02 18:23:24,584 - INFO -  Successfully loaded 387 rows into crmuser.address
+2025-07-02 18:23:24,585 - INFO - 
+[3/10] Processing: categories.csv
+2025-07-02 18:23:24,585 - INFO - Processing: categories.csv
+2025-07-02 18:23:24,590 - INFO - File info - Columns: 23, Sample rows: 100
+2025-07-02 18:23:31,637 - INFO - Loaded chunk 1 (10000 rows)
+2025-07-02 18:23:37,828 - INFO - Loaded chunk 2 (10000 rows)
+2025-07-02 18:23:44,029 - INFO - Loaded chunk 3 (10000 rows)
+2025-07-02 18:23:50,499 - INFO - Loaded chunk 4 (10000 rows)
+2025-07-02 18:23:56,502 - INFO - Loaded chunk 5 (10000 rows)
+2025-07-02 18:23:59,826 - INFO - Loaded chunk 6 (3028 rows)
+2025-07-02 18:23:59,827 - INFO -  Successfully loaded 53028 rows into crmuser.categories
+2025-07-02 18:23:59,829 - INFO - 
+[4/10] Processing: category_lang.csv
+2025-07-02 18:23:59,829 - INFO - Processing: category_lang.csv
+2025-07-02 18:23:59,834 - INFO - File info - Columns: 10, Sample rows: 100
+2025-07-02 18:24:03,861 - INFO - Loaded chunk 1 (10000 rows)
+2025-07-02 18:24:07,280 - INFO - Loaded chunk 2 (10000 rows)
+2025-07-02 18:24:10,757 - INFO - Loaded chunk 3 (10000 rows)
+2025-07-02 18:24:15,060 - INFO - Loaded chunk 4 (10000 rows)
+2025-07-02 18:24:18,655 - INFO - Loaded chunk 5 (10000 rows)
+2025-07-02 18:24:20,588 - INFO - Loaded chunk 6 (2986 rows)
+2025-07-02 18:24:20,588 - INFO -  Successfully loaded 52986 rows into crmuser.category_lang
+2025-07-02 18:24:20,589 - INFO - 
+[5/10] Processing: cem.csv
+2025-07-02 18:24:20,590 - INFO - Processing: cem.csv
+2025-07-02 18:24:20,592 - INFO - File info - Columns: 14, Sample rows: 5
+2025-07-02 18:24:22,248 - INFO - Loaded chunk 1 (5 rows)
+2025-07-02 18:24:22,248 - INFO -  Successfully loaded 5 rows into crmuser.cem
+2025-07-02 18:24:22,249 - INFO - 
+[6/10] Processing: cmg.csv
+2025-07-02 18:24:22,249 - INFO - Processing: cmg.csv
+2025-07-02 18:24:22,256 - INFO - File info - Columns: 98, Sample rows: 100
+2025-07-02 18:24:23,865 - INFO - Loaded chunk 1 (100 rows)
+2025-07-02 18:24:23,866 - INFO -  Successfully loaded 100 rows into crmuser.cmg
+2025-07-02 18:24:23,867 - INFO - 
+[7/10] Processing: corporate.csv
+2025-07-02 18:24:23,867 - INFO - Processing: corporate.csv
+2025-07-02 18:24:23,881 - INFO - File info - Columns: 376, Sample rows: 54
+2025-07-02 18:24:25,914 - INFO - Loaded chunk 1 (54 rows)
+2025-07-02 18:24:25,915 - INFO -  Successfully loaded 54 rows into crmuser.corporate
+2025-07-02 18:24:25,917 - INFO - 
+[8/10] Processing: demographic.csv
+2025-07-02 18:24:25,917 - INFO - Processing: demographic.csv
+2025-07-02 18:24:25,927 - INFO - File info - Columns: 246, Sample rows: 71
+2025-07-02 18:24:27,858 - INFO - Loaded chunk 1 (71 rows)
+2025-07-02 18:24:27,859 - INFO -  Successfully loaded 71 rows into crmuser.demographic
+2025-07-02 18:24:27,860 - INFO - 
+[9/10] Processing: entitydocument.csv
+2025-07-02 18:24:27,860 - INFO - Processing: entitydocument.csv
+2025-07-02 18:24:27,865 - INFO - File info - Columns: 70, Sample rows: 100
+2025-07-02 18:24:29,822 - INFO - Loaded chunk 1 (175 rows)
+2025-07-02 18:24:29,822 - INFO -  Successfully loaded 175 rows into crmuser.entitydocument
+2025-07-02 18:24:29,823 - INFO - 
+[10/10] Processing: phoneemail.csv
+2025-07-02 18:24:29,823 - INFO - Processing: phoneemail.csv
+2025-07-02 18:24:29,827 - INFO - File info - Columns: 33, Sample rows: 100
+2025-07-02 18:24:31,423 - INFO - Loaded chunk 1 (318 rows)
+2025-07-02 18:24:31,423 - INFO -  Successfully loaded 318 rows into crmuser.phoneemail
+2025-07-02 18:24:31,424 - INFO - 
+==================================================
+2025-07-02 18:24:31,424 - INFO - Processing folder: custom
+2025-07-02 18:24:31,424 - INFO - Schema: custom
+2025-07-02 18:24:31,425 - INFO - ==================================================
+2025-07-02 18:24:32,287 - INFO - Schema 'custom' ready
+2025-07-02 18:24:32,288 - INFO - Found 9 CSV files
+2025-07-02 18:24:32,288 - INFO - 
+[1/9] Processing: c_loan_pen_int.csv
+2025-07-02 18:24:32,288 - INFO - Processing: c_loan_pen_int.csv
+2025-07-02 18:24:32,294 - INFO - File info - Columns: 13, Sample rows: 100
+2025-07-02 18:24:35,343 - INFO - Loaded chunk 1 (5132 rows)
+2025-07-02 18:24:35,345 - INFO -  Successfully loaded 5132 rows into custom.c_loan_pen_int
+2025-07-02 18:24:35,346 - INFO - 
+[2/9] Processing: c_oda_pen_int.csv
+2025-07-02 18:24:35,347 - INFO - Processing: c_oda_pen_int.csv
+2025-07-02 18:24:35,351 - INFO - File info - Columns: 12, Sample rows: 100
+2025-07-02 18:24:37,998 - INFO - Loaded chunk 1 (4690 rows)
+2025-07-02 18:24:37,998 - INFO -  Successfully loaded 4690 rows into custom.c_oda_pen_int
+2025-07-02 18:24:38,000 - INFO - 
+[3/9] Processing: c_relparty_details.csv
+2025-07-02 18:24:38,000 - INFO - Processing: c_relparty_details.csv
+2025-07-02 18:24:38,007 - INFO - File info - Columns: 50, Sample rows: 100
+2025-07-02 18:24:39,945 - INFO - Loaded chunk 1 (429 rows)
+2025-07-02 18:24:39,946 - INFO -  Successfully loaded 429 rows into custom.c_relparty_details
+2025-07-02 18:24:39,947 - INFO - 
+[4/9] Processing: date.csv
+2025-07-02 18:24:39,948 - INFO - Processing: date.csv
+2025-07-02 18:24:39,955 - INFO - File info - Columns: 73, Sample rows: 100
+2025-07-02 18:25:01,185 - ERROR -  Failed to load D:\New folder (2)\postgres_dump\custom\date.csv: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2025-07-02 18:25:01,186 - INFO - 
+[5/9] Processing: kyc_details.csv
+2025-07-02 18:25:01,186 - INFO - Processing: kyc_details.csv
+2025-07-02 18:25:01,190 - INFO - File info - Columns: 39, Sample rows: 71
+2025-07-02 18:25:22,201 - ERROR -  Failed to load D:\New folder (2)\postgres_dump\custom\kyc_details.csv: (psycopg2.OperationalError) connection to server at "datanature-k3s-vm.eastus.cloudapp.azure.com" (4.227.181.56), port 30100 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02 18:25:22,201 - INFO - 
+[6/9] Processing: lmis.csv
+2025-07-02 18:25:22,202 - INFO - Processing: lmis.csv
+2025-07-02 18:25:22,205 - INFO - File info - Columns: 58, Sample rows: 52
+2025-07-02 18:25:43,404 - ERROR -  Failed to load D:\New folder (2)\postgres_dump\custom\lmis.csv: (psycopg2.OperationalError) connection to server at "datanature-k3s-vm.eastus.cloudapp.azure.com" (4.227.181.56), port 30100 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02 18:25:43,404 - INFO - 
+[7/9] Processing: overdue_code_table.csv
+2025-07-02 18:25:43,404 - INFO - Processing: overdue_code_table.csv
+2025-07-02 18:25:43,407 - INFO - File info - Columns: 10, Sample rows: 13
+2025-07-02 18:26:04,463 - ERROR -  Failed to load D:\New folder (2)\postgres_dump\custom\overdue_code_table.csv: (psycopg2.OperationalError) connection to server at "datanature-k3s-vm.eastus.cloudapp.azure.com" (4.227.181.56), port 30100 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02 18:26:04,463 - INFO - 
+[8/9] Processing: products.csv
+2025-07-02 18:26:04,464 - INFO - Processing: products.csv
+2025-07-02 18:26:04,466 - INFO - File info - Columns: 6, Sample rows: 100
+2025-07-02 18:26:07,567 - INFO - Loaded chunk 1 (100 rows)
+2025-07-02 18:26:07,567 - INFO -  Successfully loaded 100 rows into custom.products
+2025-07-02 18:26:07,568 - INFO - 
+[9/9] Processing: province.csv
+2025-07-02 18:26:07,568 - INFO - Processing: province.csv
+2025-07-02 18:26:07,570 - INFO - File info - Columns: 8, Sample rows: 100
+2025-07-02 18:26:09,547 - INFO - Loaded chunk 1 (361 rows)
+2025-07-02 18:26:09,548 - INFO -  Successfully loaded 361 rows into custom.province
+2025-07-02 18:26:09,548 - INFO - 
+==================================================
+2025-07-02 18:26:09,549 - INFO - Processing folder: tbaadm
+2025-07-02 18:26:09,549 - INFO - Schema: tbaadm
+2025-07-02 18:26:09,549 - INFO - ==================================================
+2025-07-02 18:26:10,447 - INFO - Schema 'tbaadm' ready
+2025-07-02 18:26:10,448 - INFO - Found 42 CSV files
+2025-07-02 18:26:10,449 - INFO - 
+[1/42] Processing: account_lien_table.csv
+2025-07-02 18:26:10,449 - INFO - Processing: account_lien_table.csv
+2025-07-02 18:26:10,454 - INFO - File info - Columns: 27, Sample rows: 65
+2025-07-02 18:26:11,897 - INFO - Loaded chunk 1 (65 rows)
+2025-07-02 18:26:11,898 - INFO -  Successfully loaded 65 rows into tbaadm.account_lien_table
+2025-07-02 18:26:11,898 - INFO - 
+[2/42] Processing: acct_nomination_table.csv
+2025-07-02 18:26:11,898 - INFO - Processing: acct_nomination_table.csv
+2025-07-02 18:26:11,904 - INFO - File info - Columns: 53, Sample rows: 100
+2025-07-02 18:26:19,104 - INFO - Loaded chunk 1 (2461 rows)
+2025-07-02 18:26:19,105 - INFO -  Successfully loaded 2461 rows into tbaadm.acct_nomination_table
+2025-07-02 18:26:19,107 - INFO - 
+[3/42] Processing: bg_event_table.csv
+2025-07-02 18:26:19,107 - INFO - Processing: bg_event_table.csv
+2025-07-02 18:26:19,114 - INFO - File info - Columns: 62, Sample rows: 100
+2025-07-02 18:26:26,132 - INFO - Loaded chunk 1 (2121 rows)
+2025-07-02 18:26:26,133 - INFO -  Successfully loaded 2121 rows into tbaadm.bg_event_table
+2025-07-02 18:26:26,134 - INFO - 
+[4/42] Processing: bg_master_table.csv
+2025-07-02 18:26:26,134 - INFO - Processing: bg_master_table.csv
+2025-07-02 18:26:26,143 - INFO - File info - Columns: 154, Sample rows: 100
+2025-07-02 18:26:30,557 - INFO - Loaded chunk 1 (692 rows)
+2025-07-02 18:26:30,558 - INFO -  Successfully loaded 692 rows into tbaadm.bg_master_table
+2025-07-02 18:26:30,559 - INFO - 
+[5/42] Processing: ccod_acct_mast_table.csv
+2025-07-02 18:26:30,559 - INFO - Processing: ccod_acct_mast_table.csv
+2025-07-02 18:26:30,563 - INFO - File info - Columns: 44, Sample rows: 100
+2025-07-02 18:26:32,063 - INFO - Loaded chunk 1 (123 rows)
+2025-07-02 18:26:32,063 - INFO -  Successfully loaded 123 rows into tbaadm.ccod_acct_mast_table
+2025-07-02 18:26:32,064 - INFO - 
+[6/42] Processing: crncy_schm_parm_tbl.csv
+2025-07-02 18:26:32,064 - INFO - Processing: crncy_schm_parm_tbl.csv
+2025-07-02 18:26:32,073 - INFO - File info - Columns: 146, Sample rows: 100
+2025-07-02 18:26:42,929 - INFO - Loaded chunk 1 (2131 rows)
+2025-07-02 18:26:42,931 - INFO -  Successfully loaded 2131 rows into tbaadm.crncy_schm_parm_tbl
+2025-07-02 18:26:42,933 - INFO - 
+[7/42] Processing: dc_events_table.csv
+2025-07-02 18:26:42,933 - INFO - Processing: dc_events_table.csv
+2025-07-02 18:26:42,942 - INFO - File info - Columns: 123, Sample rows: 100
+2025-07-02 18:26:48,592 - INFO - Loaded chunk 1 (1378 rows)
+2025-07-02 18:26:48,592 - INFO -  Successfully loaded 1378 rows into tbaadm.dc_events_table
+2025-07-02 18:26:48,594 - INFO - 
+[8/42] Processing: dc_mast_main_table.csv
+2025-07-02 18:26:48,594 - INFO - Processing: dc_mast_main_table.csv
+2025-07-02 18:26:48,607 - INFO - File info - Columns: 233, Sample rows: 100
+2025-07-02 18:26:51,326 - INFO - Loaded chunk 1 (212 rows)
+2025-07-02 18:26:51,327 - INFO -  Successfully loaded 212 rows into tbaadm.dc_mast_main_table
+2025-07-02 18:26:51,329 - INFO - 
+[9/42] Processing: drwng_power_hist_tbl.csv
+2025-07-02 18:26:51,329 - INFO - Processing: drwng_power_hist_tbl.csv
+2025-07-02 18:26:51,334 - INFO - File info - Columns: 28, Sample rows: 100
+2025-07-02 18:26:54,091 - INFO - Loaded chunk 1 (1881 rows)
+2025-07-02 18:26:54,092 - INFO -  Successfully loaded 1881 rows into tbaadm.drwng_power_hist_tbl
+2025-07-02 18:26:54,093 - INFO - 
+[10/42] Processing: entity_interest_table.csv
+2025-07-02 18:26:54,093 - INFO - Processing: entity_interest_table.csv
+2025-07-02 18:26:54,105 - INFO - File info - Columns: 169, Sample rows: 100
+2025-07-02 18:27:19,631 - ERROR -  Failed to load D:\New folder (2)\postgres_dump\tbaadm\entity_interest_table.csv: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2025-07-02 18:27:19,632 - INFO - 
+[11/42] Processing: eod_acct_bal_table.csv
+2025-07-02 18:27:19,632 - INFO - Processing: eod_acct_bal_table.csv
+2025-07-02 18:27:19,637 - INFO - File info - Columns: 21, Sample rows: 100
+2025-07-02 18:27:40,522 - ERROR -  Failed to load D:\New folder (2)\postgres_dump\tbaadm\eod_acct_bal_table.csv: (psycopg2.OperationalError) connection to server at "datanature-k3s-vm.eastus.cloudapp.azure.com" (4.227.181.56), port 30100 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02 18:27:40,523 - INFO - 
+[12/42] Processing: general_acct_mast_table.csv
+2025-07-02 18:27:40,523 - INFO - Processing: general_acct_mast_table.csv
+2025-07-02 18:27:40,538 - INFO - File info - Columns: 188, Sample rows: 100
+2025-07-02 18:28:39,734 - ERROR -  Failed to load D:\New folder (2)\postgres_dump\tbaadm\general_acct_mast_table.csv: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2025-07-02 18:28:39,735 - INFO - 
+[13/42] Processing: general_margin_history.csv
+2025-07-02 18:28:39,735 - INFO - Processing: general_margin_history.csv
+2025-07-02 18:28:39,739 - INFO - File info - Columns: 35, Sample rows: 100
+2025-07-02 18:29:00,611 - ERROR -  Failed to load D:\New folder (2)\postgres_dump\tbaadm\general_margin_history.csv: (psycopg2.OperationalError) connection to server at "datanature-k3s-vm.eastus.cloudapp.azure.com" (4.227.181.56), port 30100 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02 18:29:00,612 - INFO - 
+[14/42] Processing: gen_acct_class_table.csv
+2025-07-02 18:29:00,612 - INFO - Processing: gen_acct_class_table.csv
+2025-07-02 18:29:00,620 - INFO - File info - Columns: 97, Sample rows: 100
+2025-07-02 18:29:35,791 - INFO - Loaded chunk 1 (4061 rows)
+2025-07-02 18:29:35,791 - INFO -  Successfully loaded 4061 rows into tbaadm.gen_acct_class_table
+2025-07-02 18:29:35,795 - INFO - 
+[15/42] Processing: gen_schm_parm_table.csv
+2025-07-02 18:29:35,796 - INFO - Processing: gen_schm_parm_table.csv
+2025-07-02 18:29:35,817 - INFO - File info - Columns: 281, Sample rows: 100
+2025-07-02 18:29:59,884 - ERROR -  Failed to load D:\New folder (2)\postgres_dump\tbaadm\gen_schm_parm_table.csv: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2025-07-02 18:29:59,884 - INFO - 
+[16/42] Processing: hist_tran_dtl_table.csv
+2025-07-02 18:29:59,884 - INFO - Processing: hist_tran_dtl_table.csv
+2025-07-02 18:29:59,892 - INFO - File info - Columns: 99, Sample rows: 100
+2025-07-02 18:30:20,885 - ERROR -  Failed to load D:\New folder (2)\postgres_dump\tbaadm\hist_tran_dtl_table.csv: (psycopg2.OperationalError) connection to server at "datanature-k3s-vm.eastus.cloudapp.azure.com" (4.227.181.56), port 30100 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02 18:30:20,885 - INFO - 
+[17/42] Processing: interest_details_table.csv
+2025-07-02 18:30:20,886 - INFO - Processing: interest_details_table.csv
+2025-07-02 18:30:20,891 - INFO - File info - Columns: 46, Sample rows: 100
+2025-07-02 18:30:42,043 - ERROR -  Failed to load D:\New folder (2)\postgres_dump\tbaadm\interest_details_table.csv: (psycopg2.OperationalError) connection to server at "datanature-k3s-vm.eastus.cloudapp.azure.com" (4.227.181.56), port 30100 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02 18:30:42,043 - INFO - 
+[18/42] Processing: int_code_version_table.csv
+2025-07-02 18:30:42,044 - INFO - Processing: int_code_version_table.csv
+2025-07-02 18:30:42,049 - INFO - File info - Columns: 26, Sample rows: 100
+2025-07-02 18:31:03,110 - ERROR -  Failed to load D:\New folder (2)\postgres_dump\tbaadm\int_code_version_table.csv: (psycopg2.OperationalError) connection to server at "datanature-k3s-vm.eastus.cloudapp.azure.com" (4.227.181.56), port 30100 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02 18:31:03,111 - INFO - 
+[19/42] Processing: int_tbl_code_table.csv
+2025-07-02 18:31:03,111 - INFO - Processing: int_tbl_code_table.csv
+2025-07-02 18:31:03,116 - INFO - File info - Columns: 61, Sample rows: 100
+2025-07-02 18:31:22,497 - INFO - Loaded chunk 1 (6497 rows)
+2025-07-02 18:31:22,498 - INFO -  Successfully loaded 6497 rows into tbaadm.int_tbl_code_table
+2025-07-02 18:31:22,507 - INFO - 
+[20/42] Processing: int_version_slab_table.csv
+2025-07-02 18:31:22,507 - INFO - Processing: int_version_slab_table.csv
+2025-07-02 18:31:22,513 - INFO - File info - Columns: 27, Sample rows: 100
+2025-07-02 18:31:24,480 - INFO - Loaded chunk 1 (877 rows)
+2025-07-02 18:31:24,480 - INFO -  Successfully loaded 877 rows into tbaadm.int_version_slab_table
+2025-07-02 18:31:24,481 - INFO - 
+[21/42] Processing: la_acct_mast_table.csv
+2025-07-02 18:31:24,481 - INFO - Processing: la_acct_mast_table.csv
+2025-07-02 18:31:24,495 - INFO - File info - Columns: 231, Sample rows: 100
+2025-07-02 18:31:29,966 - INFO - Loaded chunk 1 (721 rows)
+2025-07-02 18:31:29,967 - INFO -  Successfully loaded 721 rows into tbaadm.la_acct_mast_table
+2025-07-02 18:31:29,968 - INFO - 
+[22/42] Processing: la_dmd_adj_table.csv
+2025-07-02 18:31:29,969 - INFO - Processing: la_dmd_adj_table.csv
+2025-07-02 18:31:29,974 - INFO - File info - Columns: 22, Sample rows: 100
+2025-07-02 18:31:31,846 - INFO - Loaded chunk 1 (1037 rows)
+2025-07-02 18:31:31,846 - INFO -  Successfully loaded 1037 rows into tbaadm.la_dmd_adj_table
+2025-07-02 18:31:31,847 - INFO - 
+[23/42] Processing: la_dmd_history_table.csv
+2025-07-02 18:31:31,847 - INFO - Processing: la_dmd_history_table.csv
+2025-07-02 18:31:31,852 - INFO - File info - Columns: 27, Sample rows: 100
+2025-07-02 18:31:37,952 - INFO - Loaded chunk 1 (6804 rows)
+2025-07-02 18:31:37,954 - INFO -  Successfully loaded 6804 rows into tbaadm.la_dmd_history_table
+2025-07-02 18:31:37,955 - INFO - 
+[24/42] Processing: la_dmd_table.csv
+2025-07-02 18:31:37,955 - INFO - Processing: la_dmd_table.csv
+2025-07-02 18:31:37,959 - INFO - File info - Columns: 27, Sample rows: 100
+2025-07-02 18:31:40,018 - INFO - Loaded chunk 1 (760 rows)
+2025-07-02 18:31:40,019 - INFO -  Successfully loaded 760 rows into tbaadm.la_dmd_table
+2025-07-02 18:31:40,019 - INFO - 
+[25/42] Processing: la_int_version_slab_table.csv
+2025-07-02 18:31:40,020 - INFO - Processing: la_int_version_slab_table.csv
+2025-07-02 18:31:40,023 - INFO - File info - Columns: 32, Sample rows: 27
+2025-07-02 18:31:41,461 - INFO - Loaded chunk 1 (27 rows)
+2025-07-02 18:31:41,462 - INFO -  Successfully loaded 27 rows into tbaadm.la_int_version_slab_table
+2025-07-02 18:31:41,462 - INFO - 
+[26/42] Processing: la_rep_shdl_history_table.csv
+2025-07-02 18:31:41,462 - INFO - Processing: la_rep_shdl_history_table.csv
+2025-07-02 18:31:41,467 - INFO - File info - Columns: 41, Sample rows: 100
+2025-07-02 18:31:44,303 - INFO - Loaded chunk 1 (1471 rows)
+2025-07-02 18:31:44,304 - INFO -  Successfully loaded 1471 rows into tbaadm.la_rep_shdl_history_table
+2025-07-02 18:31:44,305 - INFO - 
+[27/42] Processing: la_rep_shdl_table.csv
+2025-07-02 18:31:44,305 - INFO - Processing: la_rep_shdl_table.csv
+2025-07-02 18:31:44,309 - INFO - File info - Columns: 41, Sample rows: 100
+2025-07-02 18:31:46,694 - INFO - Loaded chunk 1 (110 rows)
+2025-07-02 18:31:46,694 - INFO -  Successfully loaded 110 rows into tbaadm.la_rep_shdl_table
+2025-07-02 18:31:46,695 - INFO - 
+[28/42] Processing: la_schm_parm_table.csv
+2025-07-02 18:31:46,695 - INFO - Processing: la_schm_parm_table.csv
+2025-07-02 18:31:46,712 - INFO - File info - Columns: 303, Sample rows: 100
+2025-07-02 18:31:50,857 - INFO - Loaded chunk 1 (350 rows)
+2025-07-02 18:31:50,857 - INFO -  Successfully loaded 350 rows into tbaadm.la_schm_parm_table
+2025-07-02 18:31:50,860 - INFO - 
+[29/42] Processing: la_tran_detail_table.csv
+2025-07-02 18:31:50,860 - INFO - Processing: la_tran_detail_table.csv
+2025-07-02 18:31:50,868 - INFO - File info - Columns: 66, Sample rows: 100
+2025-07-02 18:31:54,816 - INFO - Loaded chunk 1 (1462 rows)
+2025-07-02 18:31:54,817 - INFO -  Successfully loaded 1462 rows into tbaadm.la_tran_detail_table
+2025-07-02 18:31:54,818 - INFO - 
+[30/42] Processing: limit_liab_table.csv
+2025-07-02 18:31:54,818 - INFO - Processing: limit_liab_table.csv
+2025-07-02 18:31:54,825 - INFO - File info - Columns: 85, Sample rows: 100
+2025-07-02 18:31:56,693 - INFO - Loaded chunk 1 (139 rows)
+2025-07-02 18:31:56,693 - INFO -  Successfully loaded 139 rows into tbaadm.limit_liab_table
+2025-07-02 18:31:56,694 - INFO - 
+[31/42] Processing: limit_node_history_table.csv
+2025-07-02 18:31:56,694 - INFO - Processing: limit_node_history_table.csv
+2025-07-02 18:31:56,698 - INFO - File info - Columns: 24, Sample rows: 100
+2025-07-02 18:31:59,049 - INFO - Loaded chunk 1 (1279 rows)
+2025-07-02 18:31:59,050 - INFO -  Successfully loaded 1279 rows into tbaadm.limit_node_history_table
+2025-07-02 18:31:59,050 - INFO - 
+[32/42] Processing: lim_history_event_table.csv
+2025-07-02 18:31:59,050 - INFO - Processing: lim_history_event_table.csv
+2025-07-02 18:31:59,054 - INFO - File info - Columns: 15, Sample rows: 100
+2025-07-02 18:32:01,507 - INFO - Loaded chunk 1 (2484 rows)
+2025-07-02 18:32:01,508 - INFO -  Successfully loaded 2484 rows into tbaadm.lim_history_event_table
+2025-07-02 18:32:01,509 - INFO - 
+[33/42] Processing: lim_history_table.csv
+2025-07-02 18:32:01,509 - INFO - Processing: lim_history_table.csv
+2025-07-02 18:32:01,514 - INFO - File info - Columns: 38, Sample rows: 100
+2025-07-02 18:32:04,897 - INFO - Loaded chunk 1 (1652 rows)
+2025-07-02 18:32:04,897 - INFO -  Successfully loaded 1652 rows into tbaadm.lim_history_table
+2025-07-02 18:32:04,898 - INFO - 
+[34/42] Processing: ratelist_hist_table.csv
+2025-07-02 18:32:04,898 - INFO - Processing: ratelist_hist_table.csv
+2025-07-02 18:32:04,903 - INFO - File info - Columns: 20, Sample rows: 100
+2025-07-02 18:32:08,817 - INFO - Loaded chunk 1 (5220 rows)
+2025-07-02 18:32:08,818 - INFO -  Successfully loaded 5220 rows into tbaadm.ratelist_hist_table
+2025-07-02 18:32:08,818 - INFO - 
+[35/42] Processing: ratelist_table.csv
+2025-07-02 18:32:08,818 - INFO - Processing: ratelist_table.csv
+2025-07-02 18:32:08,822 - INFO - File info - Columns: 25, Sample rows: 100
+2025-07-02 18:32:10,298 - INFO - Loaded chunk 1 (180 rows)
+2025-07-02 18:32:10,299 - INFO -  Successfully loaded 180 rows into tbaadm.ratelist_table
+2025-07-02 18:32:10,299 - INFO - 
+[36/42] Processing: reference_code_table.csv
+2025-07-02 18:32:10,299 - INFO - Processing: reference_code_table.csv
+2025-07-02 18:32:10,303 - INFO - File info - Columns: 12, Sample rows: 100
+2025-07-02 18:32:14,638 - INFO - Loaded chunk 1 (10000 rows)
+2025-07-02 18:32:18,922 - INFO - Loaded chunk 2 (10000 rows)
+2025-07-02 18:32:21,372 - INFO - Loaded chunk 3 (4255 rows)
+2025-07-02 18:32:21,373 - INFO -  Successfully loaded 24255 rows into tbaadm.reference_code_table
+2025-07-02 18:32:21,374 - INFO - 
+[37/42] Processing: sbca_mast_table.csv
+2025-07-02 18:32:21,375 - INFO - Processing: sbca_mast_table.csv
+2025-07-02 18:32:21,379 - INFO - File info - Columns: 34, Sample rows: 100
+2025-07-02 18:32:23,217 - INFO - Loaded chunk 1 (256 rows)
+2025-07-02 18:32:23,217 - INFO -  Successfully loaded 256 rows into tbaadm.sbca_mast_table
+2025-07-02 18:32:23,218 - INFO - 
+[38/42] Processing: service_outlet_table.csv
+2025-07-02 18:32:23,218 - INFO - Processing: service_outlet_table.csv
+2025-07-02 18:32:23,229 - INFO - File info - Columns: 126, Sample rows: 100
+2025-07-02 18:32:26,753 - INFO - Loaded chunk 1 (722 rows)
+2025-07-02 18:32:26,754 - INFO -  Successfully loaded 722 rows into tbaadm.service_outlet_table
+2025-07-02 18:32:26,755 - INFO - 
+[39/42] Processing: sol_group_control_table.csv
+2025-07-02 18:32:26,755 - INFO - Processing: sol_group_control_table.csv
+2025-07-02 18:32:26,767 - INFO - File info - Columns: 368, Sample rows: 1
+2025-07-02 18:32:28,643 - INFO - Loaded chunk 1 (1 rows)
+2025-07-02 18:32:28,643 - INFO -  Successfully loaded 1 rows into tbaadm.sol_group_control_table
+2025-07-02 18:32:28,644 - INFO - 
+[40/42] Processing: td_acct_master_table.csv
+2025-07-02 18:32:28,645 - INFO - Processing: td_acct_master_table.csv
+2025-07-02 18:32:28,653 - INFO - File info - Columns: 121, Sample rows: 100
+2025-07-02 18:32:59,487 - ERROR -  Failed to load D:\New folder (2)\postgres_dump\tbaadm\td_acct_master_table.csv: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2025-07-02 18:32:59,487 - INFO - 
+[41/42] Processing: tf_address_table.csv
+2025-07-02 18:32:59,487 - INFO - Processing: tf_address_table.csv
+2025-07-02 18:32:59,492 - INFO - File info - Columns: 25, Sample rows: 100
+2025-07-02 18:33:20,509 - ERROR -  Failed to load D:\New folder (2)\postgres_dump\tbaadm\tf_address_table.csv: (psycopg2.OperationalError) connection to server at "datanature-k3s-vm.eastus.cloudapp.azure.com" (4.227.181.56), port 30100 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02 18:33:20,509 - INFO - 
+[42/42] Processing: tf_txt_main_table.csv
+2025-07-02 18:33:20,510 - INFO - Processing: tf_txt_main_table.csv
+2025-07-02 18:33:20,513 - INFO - File info - Columns: 14, Sample rows: 100
+2025-07-02 18:33:41,690 - ERROR -  Failed to load D:\New folder (2)\postgres_dump\tbaadm\tf_txt_main_table.csv: (psycopg2.OperationalError) connection to server at "datanature-k3s-vm.eastus.cloudapp.azure.com" (4.227.181.56), port 30100 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02 18:33:41,690 - INFO - 
+==================================================
+2025-07-02 18:33:41,691 - INFO - LOADING STATISTICS
+2025-07-02 18:33:41,691 - INFO - ==================================================
+2025-07-02 18:33:41,691 - INFO - Files processed: 46
+2025-07-02 18:33:41,691 - INFO - Tables created: 46
+2025-07-02 18:33:41,691 - INFO - Total rows inserted: 189,390
+2025-07-02 18:33:41,692 - INFO - Errors encountered: 15
+2025-07-02 18:33:41,692 - INFO - ==================================================
+2025-07-02 18:33:41,692 - INFO -  CSV loading process completed successfully!
+2025-07-02 18:33:41,692 - INFO - Database connection closed
+2025-07-04 10:11:55,506 - INFO - Starting PostgreSQL CSV Loader
+2025-07-04 10:11:55,507 - INFO - Configuration: datanature-k3s-vm.eastus.cloudapp.azure.com:30100/ai360
+2025-07-04 10:12:00,553 - INFO - Successfully connected to PostgreSQL database: ai360
+2025-07-04 10:12:00,554 - INFO - Starting CSV loading process from: D:\New folder (2)\postgres_dump
+2025-07-04 10:12:00,554 - INFO - 
+==================================================
+2025-07-04 10:12:00,554 - INFO - Processing folder: card
+2025-07-04 10:12:00,554 - INFO - Schema: card
+2025-07-04 10:12:00,555 - INFO - ==================================================
+2025-07-04 10:12:01,477 - INFO - Schema 'card' ready
+2025-07-04 10:12:01,478 - INFO - Found 28 CSV files
+2025-07-04 10:12:01,479 - INFO - 
+[1/28] Processing: account.csv
+2025-07-04 10:12:01,479 - INFO - Processing: account.csv
+2025-07-04 10:12:01,518 - INFO - File info - Columns: 98, Sample rows: 32
+2025-07-04 10:12:03,227 - INFO - Loaded chunk 1 (32 rows)
+2025-07-04 10:12:03,228 - INFO -  Successfully loaded 32 rows into card.account
+2025-07-04 10:12:03,228 - INFO - 
+[2/28] Processing: account_type.csv
+2025-07-04 10:12:03,229 - INFO - Processing: account_type.csv
+2025-07-04 10:12:03,233 - INFO - File info - Columns: 3, Sample rows: 4
+2025-07-04 10:12:04,385 - INFO - Loaded chunk 1 (4 rows)
+2025-07-04 10:12:04,386 - INFO -  Successfully loaded 4 rows into card.account_type
+2025-07-04 10:12:04,386 - INFO - 
+[3/28] Processing: atm_terminal.csv
+2025-07-04 10:12:04,386 - INFO - Processing: atm_terminal.csv
+2025-07-04 10:12:04,425 - INFO - File info - Columns: 56, Sample rows: 100
+2025-07-04 10:12:07,079 - INFO - Loaded chunk 1 (673 rows)
+2025-07-04 10:12:07,080 - INFO -  Successfully loaded 673 rows into card.atm_terminal
+2025-07-04 10:12:07,081 - INFO - 
+[4/28] Processing: authorization.csv
+2025-07-04 10:12:07,081 - INFO - Processing: authorization.csv
+2025-07-04 10:12:07,119 - INFO - File info - Columns: 319, Sample rows: 8
+2025-07-04 10:12:08,403 - INFO - Loaded chunk 1 (8 rows)
+2025-07-04 10:12:08,403 - INFO -  Successfully loaded 8 rows into card.authorization
+2025-07-04 10:12:08,404 - INFO - 
+[5/28] Processing: authorization_response_f039.csv
+2025-07-04 10:12:08,404 - INFO - Processing: authorization_response_f039.csv
+2025-07-04 10:12:08,408 - INFO - File info - Columns: 3, Sample rows: 89
+2025-07-04 10:12:09,872 - INFO - Loaded chunk 1 (89 rows)
+2025-07-04 10:12:09,872 - INFO -  Successfully loaded 89 rows into card.authorization_response_f039
+2025-07-04 10:12:09,872 - INFO - 
+[6/28] Processing: bin_type.csv
+2025-07-04 10:12:09,873 - INFO - Processing: bin_type.csv
+2025-07-04 10:12:09,887 - INFO - File info - Columns: 4, Sample rows: 4
+2025-07-04 10:12:11,262 - INFO - Loaded chunk 1 (4 rows)
+2025-07-04 10:12:11,262 - INFO -  Successfully loaded 4 rows into card.bin_type
+2025-07-04 10:12:11,263 - INFO - 
+[7/28] Processing: branch.csv
+2025-07-04 10:12:11,263 - INFO - Processing: branch.csv
+2025-07-04 10:12:11,298 - INFO - File info - Columns: 9, Sample rows: 100
+2025-07-04 10:12:12,670 - INFO - Loaded chunk 1 (361 rows)
+2025-07-04 10:12:12,670 - INFO -  Successfully loaded 361 rows into card.branch
+2025-07-04 10:12:12,670 - INFO - 
+[8/28] Processing: card.csv
+2025-07-04 10:12:12,671 - INFO - Processing: card.csv
+2025-07-04 10:12:12,696 - INFO - File info - Columns: 137, Sample rows: 28
+2025-07-04 10:12:14,024 - INFO - Loaded chunk 1 (28 rows)
+2025-07-04 10:12:14,024 - INFO -  Successfully loaded 28 rows into card.card
+2025-07-04 10:12:14,025 - INFO - 
+[9/28] Processing: cardholder_routing.csv
+2025-07-04 10:12:14,025 - INFO - Processing: cardholder_routing.csv
+2025-07-04 10:12:14,038 - INFO - File info - Columns: 9, Sample rows: 28
+2025-07-04 10:12:15,187 - INFO - Loaded chunk 1 (28 rows)
+2025-07-04 10:12:15,187 - INFO -  Successfully loaded 28 rows into card.cardholder_routing
+2025-07-04 10:12:15,188 - INFO - 
+[10/28] Processing: card_program.csv
+2025-07-04 10:12:15,188 - INFO - Processing: card_program.csv
+2025-07-04 10:12:15,212 - INFO - File info - Columns: 74, Sample rows: 28
+2025-07-04 10:12:16,409 - INFO - Loaded chunk 1 (28 rows)
+2025-07-04 10:12:16,409 - INFO -  Successfully loaded 28 rows into card.card_program
+2025-07-04 10:12:16,410 - INFO - 
+[11/28] Processing: card_status.csv
+2025-07-04 10:12:16,410 - INFO - Processing: card_status.csv
+2025-07-04 10:12:16,414 - INFO - File info - Columns: 3, Sample rows: 16
+2025-07-04 10:12:17,568 - INFO - Loaded chunk 1 (16 rows)
+2025-07-04 10:12:17,569 - INFO -  Successfully loaded 16 rows into card.card_status
+2025-07-04 10:12:17,569 - INFO - 
+[12/28] Processing: card_status_history.csv
+2025-07-04 10:12:17,570 - INFO - Processing: card_status_history.csv
+2025-07-04 10:12:17,574 - INFO - File info - Columns: 10, Sample rows: 21
+2025-07-04 10:12:18,731 - INFO - Loaded chunk 1 (21 rows)
+2025-07-04 10:12:18,731 - INFO -  Successfully loaded 21 rows into card.card_status_history
+2025-07-04 10:12:18,732 - INFO - 
+[13/28] Processing: charge_revol_transaction.csv
+2025-07-04 10:12:18,732 - INFO - Processing: charge_revol_transaction.csv
+2025-07-04 10:12:18,760 - INFO - File info - Columns: 54, Sample rows: 100
+2025-07-04 10:12:21,548 - INFO - Loaded chunk 1 (900 rows)
+2025-07-04 10:12:21,549 - INFO -  Successfully loaded 900 rows into card.charge_revol_transaction
+2025-07-04 10:12:21,550 - INFO - 
+[14/28] Processing: companies_type.csv
+2025-07-04 10:12:21,550 - INFO - Processing: companies_type.csv
+2025-07-04 10:12:21,553 - INFO - File info - Columns: 4, Sample rows: 9
+2025-07-04 10:12:23,082 - INFO - Loaded chunk 1 (9 rows)
+2025-07-04 10:12:23,083 - INFO -  Successfully loaded 9 rows into card.companies_type
+2025-07-04 10:12:23,083 - INFO - 
+[15/28] Processing: country.csv
+2025-07-04 10:12:23,083 - INFO - Processing: country.csv
+2025-07-04 10:12:23,118 - INFO - File info - Columns: 5, Sample rows: 100
+2025-07-04 10:12:24,517 - INFO - Loaded chunk 1 (250 rows)
+2025-07-04 10:12:24,518 - INFO -  Successfully loaded 250 rows into card.country
+2025-07-04 10:12:24,518 - INFO - 
+[16/28] Processing: currency.csv
+2025-07-04 10:12:24,519 - INFO - Processing: currency.csv
+2025-07-04 10:12:24,539 - INFO - File info - Columns: 7, Sample rows: 100
+2025-07-04 10:12:25,733 - INFO - Loaded chunk 1 (197 rows)
+2025-07-04 10:12:25,734 - INFO -  Successfully loaded 197 rows into card.currency
+2025-07-04 10:12:25,734 - INFO - 
+[17/28] Processing: customer_cardholder.csv
+2025-07-04 10:12:25,734 - INFO - Processing: customer_cardholder.csv
+2025-07-04 10:12:25,770 - INFO - File info - Columns: 91, Sample rows: 27
+2025-07-04 10:12:26,985 - INFO - Loaded chunk 1 (27 rows)
+2025-07-04 10:12:26,986 - INFO -  Successfully loaded 27 rows into card.customer_cardholder
+2025-07-04 10:12:26,987 - INFO - 
+[18/28] Processing: emi_transaction.csv
+2025-07-04 10:12:26,987 - INFO - Processing: emi_transaction.csv
+2025-07-04 10:12:27,014 - INFO - File info - Columns: 46, Sample rows: 100
+2025-07-04 10:12:31,167 - INFO - Loaded chunk 1 (2809 rows)
+2025-07-04 10:12:31,168 - INFO -  Successfully loaded 2809 rows into card.emi_transaction
+2025-07-04 10:12:31,170 - INFO - 
+[19/28] Processing: emi_transaction_subset.csv
+2025-07-04 10:12:31,171 - INFO - Processing: emi_transaction_subset.csv
+2025-07-04 10:12:31,194 - INFO - File info - Columns: 46, Sample rows: 15
+2025-07-04 10:12:32,354 - INFO - Loaded chunk 1 (15 rows)
+2025-07-04 10:12:32,354 - INFO -  Successfully loaded 15 rows into card.emi_transaction_subset
+2025-07-04 10:12:32,355 - INFO - 
+[20/28] Processing: merchant.csv
+2025-07-04 10:12:32,355 - INFO - Processing: merchant.csv
+2025-07-04 10:12:32,391 - INFO - File info - Columns: 121, Sample rows: 100
+2025-07-04 10:12:57,914 - ERROR -  Failed to load D:\New folder (2)\postgres_dump\card\merchant.csv: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2025-07-04 10:12:57,914 - INFO - 
+[21/28] Processing: merchant_activity.csv
+2025-07-04 10:12:57,914 - INFO - Processing: merchant_activity.csv
+2025-07-04 10:12:57,932 - INFO - File info - Columns: 5, Sample rows: 100
+2025-07-04 10:12:58,991 - ERROR -  Failed to load D:\New folder (2)\postgres_dump\card\merchant_activity.csv: (psycopg2.OperationalError) connection to server at "datanature-k3s-vm.eastus.cloudapp.azure.com" (4.227.181.56), port 30100 failed: FATAL:  the database system is in recovery mode
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-04 10:12:58,991 - INFO - 
+[22/28] Processing: merchant_routing.csv
+2025-07-04 10:12:58,992 - INFO - Processing: merchant_routing.csv
+2025-07-04 10:12:59,025 - INFO - File info - Columns: 7, Sample rows: 100
+2025-07-04 10:13:03,249 - INFO - Loaded chunk 1 (1187 rows)
+2025-07-04 10:13:03,249 - INFO -  Successfully loaded 1187 rows into card.merchant_routing
+2025-07-04 10:13:03,250 - INFO - 
+[23/28] Processing: merchant_status.csv
+2025-07-04 10:13:03,250 - INFO - Processing: merchant_status.csv
+2025-07-04 10:13:03,265 - INFO - File info - Columns: 3, Sample rows: 4
+2025-07-04 10:13:04,418 - INFO - Loaded chunk 1 (4 rows)
+2025-07-04 10:13:04,419 - INFO -  Successfully loaded 4 rows into card.merchant_status
+2025-07-04 10:13:04,419 - INFO - 
+[24/28] Processing: payment_channel.csv
+2025-07-04 10:13:04,420 - INFO - Processing: payment_channel.csv
+2025-07-04 10:13:04,432 - INFO - File info - Columns: 4, Sample rows: 11
+2025-07-04 10:13:05,682 - INFO - Loaded chunk 1 (11 rows)
+2025-07-04 10:13:05,683 - INFO -  Successfully loaded 11 rows into card.payment_channel
+2025-07-04 10:13:05,683 - INFO - 
+[25/28] Processing: pos_terminal_status.csv
+2025-07-04 10:13:05,683 - INFO - Processing: pos_terminal_status.csv
+2025-07-04 10:13:05,696 - INFO - File info - Columns: 3, Sample rows: 2
+2025-07-04 10:13:07,118 - INFO - Loaded chunk 1 (2 rows)
+2025-07-04 10:13:07,119 - INFO -  Successfully loaded 2 rows into card.pos_terminal_status
+2025-07-04 10:13:07,119 - INFO - 
+[26/28] Processing: terms.csv
+2025-07-04 10:13:07,120 - INFO - Processing: terms.csv
+2025-07-04 10:13:07,160 - INFO - File info - Columns: 27, Sample rows: 100
+2025-07-04 10:13:08,656 - INFO - Loaded chunk 1 (169 rows)
+2025-07-04 10:13:08,657 - INFO -  Successfully loaded 169 rows into card.terms
+2025-07-04 10:13:08,658 - INFO - 
+[27/28] Processing: transaction_code.csv
+2025-07-04 10:13:08,658 - INFO - Processing: transaction_code.csv
+2025-07-04 10:13:08,678 - INFO - File info - Columns: 12, Sample rows: 100
+2025-07-04 10:13:09,953 - INFO - Loaded chunk 1 (342 rows)
+2025-07-04 10:13:09,954 - INFO -  Successfully loaded 342 rows into card.transaction_code
+2025-07-04 10:13:09,954 - INFO - 
+[28/28] Processing: transaction_type.csv
+2025-07-04 10:13:09,954 - INFO - Processing: transaction_type.csv
+2025-07-04 10:13:09,988 - INFO - File info - Columns: 4, Sample rows: 57
+2025-07-04 10:13:11,144 - INFO - Loaded chunk 1 (57 rows)
+2025-07-04 10:13:11,145 - INFO -  Successfully loaded 57 rows into card.transaction_type
+2025-07-04 10:13:11,145 - INFO - 
+==================================================
+2025-07-04 10:13:11,146 - INFO - Processing folder: mobile_banking
+2025-07-04 10:13:11,146 - INFO - Schema: mobile_banking
+2025-07-04 10:13:11,146 - INFO - ==================================================
+2025-07-04 10:13:11,832 - INFO - Schema 'mobile_banking' ready
+2025-07-04 10:13:11,833 - INFO - Found 12 CSV files
+2025-07-04 10:13:11,833 - INFO - 
+[1/12] Processing: application_user.csv
+2025-07-04 10:13:11,834 - INFO - Processing: application_user.csv
+2025-07-04 10:13:11,852 - INFO - File info - Columns: 34, Sample rows: 13
+2025-07-04 10:13:13,019 - INFO - Loaded chunk 1 (13 rows)
+2025-07-04 10:13:13,020 - INFO -  Successfully loaded 13 rows into mobile_banking.application_user
+2025-07-04 10:13:13,020 - INFO - 
+[2/12] Processing: bank_account.csv
+2025-07-04 10:13:13,021 - INFO - Processing: bank_account.csv
+2025-07-04 10:13:13,055 - INFO - File info - Columns: 36, Sample rows: 100
+2025-07-04 10:13:14,689 - INFO - Loaded chunk 1 (300 rows)
+2025-07-04 10:13:14,690 - INFO -  Successfully loaded 300 rows into mobile_banking.bank_account
+2025-07-04 10:13:14,690 - INFO - 
+[3/12] Processing: customer.csv
+2025-07-04 10:13:14,691 - INFO - Processing: customer.csv
+2025-07-04 10:13:14,716 - INFO - File info - Columns: 50, Sample rows: 100
+2025-07-04 10:13:17,380 - INFO - Loaded chunk 1 (1186 rows)
+2025-07-04 10:13:17,381 - INFO -  Successfully loaded 1186 rows into mobile_banking.customer
+2025-07-04 10:13:17,382 - INFO - 
+[4/12] Processing: customer_login.csv
+2025-07-04 10:13:17,382 - INFO - Processing: customer_login.csv
+2025-07-04 10:13:17,414 - INFO - File info - Columns: 28, Sample rows: 100
+2025-07-04 10:13:19,480 - INFO - Loaded chunk 1 (1167 rows)
+2025-07-04 10:13:19,480 - INFO -  Successfully loaded 1167 rows into mobile_banking.customer_login
+2025-07-04 10:13:19,481 - INFO - 
+[5/12] Processing: iso_txn_request.csv
+2025-07-04 10:13:19,481 - INFO - Processing: iso_txn_request.csv
+2025-07-04 10:13:19,521 - INFO - File info - Columns: 28, Sample rows: 100
+2025-07-04 10:13:22,546 - INFO - Loaded chunk 1 (2835 rows)
+2025-07-04 10:13:22,547 - INFO -  Successfully loaded 2835 rows into mobile_banking.iso_txn_request
+2025-07-04 10:13:22,548 - INFO - 
+[6/12] Processing: logged_in_activity.csv
+2025-07-04 10:13:22,548 - INFO - Processing: logged_in_activity.csv
+2025-07-04 10:13:22,590 - INFO - File info - Columns: 7, Sample rows: 100
+2025-07-04 10:13:25,741 - INFO - Loaded chunk 1 (10000 rows)
+2025-07-04 10:13:28,159 - INFO - Loaded chunk 2 (8879 rows)
+2025-07-04 10:13:28,160 - INFO -  Successfully loaded 18879 rows into mobile_banking.logged_in_activity
+2025-07-04 10:13:28,161 - INFO - 
+[7/12] Processing: login_acces.csv
+2025-07-04 10:13:28,161 - INFO - Processing: login_acces.csv
+2025-07-04 10:13:28,183 - INFO - File info - Columns: 18, Sample rows: 100
+2025-07-04 10:13:30,195 - INFO - Loaded chunk 1 (2334 rows)
+2025-07-04 10:13:30,195 - INFO -  Successfully loaded 2334 rows into mobile_banking.login_acces
+2025-07-04 10:13:30,196 - INFO - 
+[8/12] Processing: login_device_info.csv
+2025-07-04 10:13:30,196 - INFO - Processing: login_device_info.csv
+2025-07-04 10:13:30,214 - INFO - File info - Columns: 18, Sample rows: 44
+2025-07-04 10:13:31,575 - INFO - Loaded chunk 1 (44 rows)
+2025-07-04 10:13:31,575 - INFO -  Successfully loaded 44 rows into mobile_banking.login_device_info
+2025-07-04 10:13:31,575 - INFO - 
+[9/12] Processing: merchant.csv
+2025-07-04 10:13:31,576 - INFO - Processing: merchant.csv
+2025-07-04 10:13:31,608 - INFO - File info - Columns: 34, Sample rows: 50
+2025-07-04 10:13:32,802 - INFO - Loaded chunk 1 (50 rows)
+2025-07-04 10:13:32,803 - INFO -  Successfully loaded 50 rows into mobile_banking.merchant
+2025-07-04 10:13:32,804 - INFO - 
+[10/12] Processing: merchant_group.csv
+2025-07-04 10:13:32,804 - INFO - Processing: merchant_group.csv
+2025-07-04 10:13:32,816 - INFO - File info - Columns: 12, Sample rows: 7
+2025-07-04 10:13:33,986 - INFO - Loaded chunk 1 (7 rows)
+2025-07-04 10:13:33,986 - INFO -  Successfully loaded 7 rows into mobile_banking.merchant_group
+2025-07-04 10:13:33,987 - INFO - 
+[11/12] Processing: profile.csv
+2025-07-04 10:13:33,987 - INFO - Processing: profile.csv
+2025-07-04 10:13:34,004 - INFO - File info - Columns: 14, Sample rows: 52
+2025-07-04 10:13:35,170 - INFO - Loaded chunk 1 (52 rows)
+2025-07-04 10:13:35,171 - INFO -  Successfully loaded 52 rows into mobile_banking.profile
+2025-07-04 10:13:35,172 - INFO - 
+[12/12] Processing: request_info.csv
+2025-07-04 10:13:35,172 - INFO - Processing: request_info.csv
+2025-07-04 10:13:35,178 - INFO - File info - Columns: 13, Sample rows: 100
+2025-07-04 10:13:38,090 - INFO - Loaded chunk 1 (4603 rows)
+2025-07-04 10:13:38,091 - INFO -  Successfully loaded 4603 rows into mobile_banking.request_info
+2025-07-04 10:13:38,092 - INFO - 
+==================================================
+2025-07-04 10:13:38,092 - INFO - LOADING STATISTICS
+2025-07-04 10:13:38,092 - INFO - ==================================================
+2025-07-04 10:13:38,092 - INFO - Files processed: 38
+2025-07-04 10:13:38,093 - INFO - Tables created: 38
+2025-07-04 10:13:38,093 - INFO - Total rows inserted: 38,741
+2025-07-04 10:13:38,093 - INFO - Errors encountered: 2
+2025-07-04 10:13:38,093 - INFO - ==================================================
+2025-07-04 10:13:38,094 - INFO -  CSV loading process completed successfully!
+2025-07-04 10:13:38,095 - INFO - Database connection closed
+2025-07-04 15:34:33,033 - INFO - Starting PostgreSQL CSV Loader
+2025-07-04 15:34:33,034 - INFO - Configuration: datanature-k3s-vm.eastus.cloudapp.azure.com:30100/ai360
+2025-07-04 15:34:48,594 - INFO - Successfully connected to PostgreSQL database: ai360
+2025-07-04 15:34:48,594 - INFO - Starting CSV loading process from: D:\New folder (2)\postgres_dump
+2025-07-04 15:34:48,595 - INFO - 
+==================================================
+2025-07-04 15:34:48,595 - INFO - Processing folder: qr
+2025-07-04 15:34:48,595 - INFO - Schema: qr
+2025-07-04 15:34:48,595 - INFO - ==================================================
+2025-07-04 15:34:49,515 - INFO - Schema 'qr' ready
+2025-07-04 15:34:49,516 - INFO - Found 4 CSV files
+2025-07-04 15:34:49,517 - INFO - 
+[1/4] Processing: merchant_details.csv
+2025-07-04 15:34:49,517 - INFO - Processing: merchant_details.csv
+2025-07-04 15:34:49,559 - INFO - File info - Columns: 40, Sample rows: 29
+2025-07-04 15:34:51,700 - INFO - Loaded chunk 1 (29 rows)
+2025-07-04 15:34:51,700 - INFO -  Successfully loaded 29 rows into qr.merchant_details
+2025-07-04 15:34:51,701 - INFO - 
+[2/4] Processing: sub_merchant_details.csv
+2025-07-04 15:34:51,701 - INFO - Processing: sub_merchant_details.csv
+2025-07-04 15:34:51,705 - INFO - File info - Columns: 17, Sample rows: 29
+2025-07-04 15:34:53,184 - INFO - Loaded chunk 1 (29 rows)
+2025-07-04 15:34:53,185 - INFO -  Successfully loaded 29 rows into qr.sub_merchant_details
+2025-07-04 15:34:53,185 - INFO - 
+[3/4] Processing: terminal_details.csv
+2025-07-04 15:34:53,186 - INFO - Processing: terminal_details.csv
+2025-07-04 15:34:53,189 - INFO - File info - Columns: 23, Sample rows: 29
+2025-07-04 15:34:54,596 - INFO - Loaded chunk 1 (29 rows)
+2025-07-04 15:34:54,597 - INFO -  Successfully loaded 29 rows into qr.terminal_details
+2025-07-04 15:34:54,597 - INFO - 
+[4/4] Processing: transaction_details.csv
+2025-07-04 15:34:54,597 - INFO - Processing: transaction_details.csv
+2025-07-04 15:34:54,634 - INFO - File info - Columns: 37, Sample rows: 100
+2025-07-04 15:35:04,378 - INFO - Loaded chunk 1 (1639 rows)
+2025-07-04 15:35:04,379 - INFO -  Successfully loaded 1639 rows into qr.transaction_details
+2025-07-04 15:35:04,380 - INFO - 
+==================================================
+2025-07-04 15:35:04,380 - INFO - LOADING STATISTICS
+2025-07-04 15:35:04,380 - INFO - ==================================================
+2025-07-04 15:35:04,380 - INFO - Files processed: 4
+2025-07-04 15:35:04,380 - INFO - Tables created: 4
+2025-07-04 15:35:04,381 - INFO - Total rows inserted: 1,726
+2025-07-04 15:35:04,381 - INFO - Errors encountered: 0
+2025-07-04 15:35:04,381 - INFO - ==================================================
+2025-07-04 15:35:04,381 - INFO -  CSV loading process completed successfully!
+2025-07-04 15:35:04,382 - INFO - Database connection closed

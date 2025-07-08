@@ -1,0 +1,90 @@
+are_code,are_labe,updated_at
+0,Approved or completed successfully.,2024-08-07 07:03:05.199
+1,Refer to card Issuer.,2024-08-07 07:03:05.199
+2,Refer to card Issuer - special Condition.,2024-08-07 07:03:05.199
+3,Invalid Merchant.,2024-08-07 07:03:05.199
+4,Do Not Honor,2024-08-07 07:03:05.199
+5,Unable to process request,2024-08-07 07:03:05.199
+6,Error ,2024-08-07 07:03:05.199
+7,Pick Up Card Special Condition,2024-08-07 07:03:05.199
+8,Timed out,2024-08-07 07:03:05.199
+11,Approval VIP,2024-08-07 07:03:05.199
+12,Invalid Transaction,2024-08-07 07:03:05.199
+13,Invalid Amount,2024-08-07 07:03:05.199
+14,Invalid Card Number ( no such number ),2024-08-07 07:03:05.199
+15,No such issuer,2024-08-07 07:03:05.199
+17,Customer Cancellation,2024-08-07 07:03:05.199
+19,Re Enter Transaction,2024-08-07 07:03:05.199
+20,Wrong Response ( Server Problem ),2024-08-07 07:03:05.199
+21,No Action Taken,2024-08-07 07:03:05.199
+24,Update File Not Supported,2024-08-07 07:03:05.199
+25,Unable to locate a record on file,2024-08-07 07:03:05.199
+26,Duplicate Record Found,2024-08-07 07:03:05.199
+27,File Update Edit Error,2024-08-07 07:03:05.199
+28,"File Update, File Locked",2024-08-07 07:03:05.199
+29,"File Update, Update Not Successful",2024-08-07 07:03:05.199
+30,Format Error,2024-08-07 07:03:05.199
+31,Bank / Host or Issuer Not Supported Or Unknown,2024-08-07 07:03:05.199
+32,Completed Partially,2024-08-07 07:03:05.199
+33,Expired Card,2024-08-07 07:03:05.199
+34,Suspected Fraud,2024-08-07 07:03:05.199
+35,Card Acceptor Has to contact Acquirer,2024-08-07 07:03:05.199
+36,Restricted Card,2024-08-07 07:03:05.199
+37,Card Acceptor Call Acquirer Security,2024-08-07 07:03:05.199
+38,Retry PIN Error Exceeded,2024-08-07 07:03:05.199
+39,Invalid Transaction,2024-08-07 07:03:05.199
+40,Requested Function Not Supported,2024-08-07 07:03:05.199
+41,Lost Card,2024-08-07 07:03:05.199
+42,No Universal Account,2024-08-07 07:03:05.199
+43,"Stolen Card, Pick Up",2024-08-07 07:03:05.199
+44,No Investment Account,2024-08-07 07:03:05.199
+46,Closed Account,2024-08-07 07:03:05.199
+50,MCC used is not compliant,2024-08-07 07:03:05.199
+51,No Sufficient funds,2024-08-07 07:03:05.199
+52,Lost/Blocked Card,2024-08-07 07:03:05.199
+53,No saving Account,2024-08-07 07:03:05.199
+54,Expired Card,2024-08-07 07:03:05.199
+55,Incorrect PIN,2024-08-07 07:03:05.199
+56,No Card Record,2024-08-07 07:03:05.199
+57,Transaction Not Permitted to Cardholder,2024-08-07 07:03:05.199
+58,Transaction Not Permitted to Terminal,2024-08-07 07:03:05.199
+59,Suspected Fraud,2024-08-07 07:03:05.199
+60,Card Acceptor Contact Acquirer,2024-08-07 07:03:05.199
+61,Exceeds Withdrawal Amount Limit,2024-08-07 07:03:05.199
+62,Restricted Card,2024-08-07 07:03:05.199
+63,"Security Violation, Cryptographic Error",2024-08-07 07:03:05.199
+64,Original Amount Incorrect,2024-08-07 07:03:05.199
+65,Exceeds Withdrawal Counter Limit,2024-08-07 07:03:05.199
+66,Card Acceptor Contact Security Department,2024-08-07 07:03:05.199
+67,Hard Capture,2024-08-07 07:03:05.199
+68,Response too late,2024-08-07 07:03:05.199
+69,Security Module Failure / Key Data Elements Not Found,2024-08-07 07:03:05.199
+70,CVC2 Error,2024-08-07 07:03:05.199
+71,Message Out Of Cycle Sequence,2024-08-07 07:03:05.199
+72,ATC Check Failure,2024-08-07 07:03:05.199
+73,CVR decline,2024-08-07 07:03:05.199
+74,TVR decline,2024-08-07 07:03:05.199
+75,Allowable PIN Tries exceeded,2024-08-07 07:03:05.199
+76,Invalid Account,2024-08-07 07:03:05.199
+77,The Original Message Found for reversal but reversal data not consistent,2024-08-07 07:03:05.199
+78,Invalid Account ( From / To ),2024-08-07 07:03:05.199
+79,Key Exchange Failed,2024-08-07 07:03:05.199
+80,Invalid Date,2024-08-07 07:03:05.199
+81,PIN Cryptographic error found,2024-08-07 07:03:05.199
+82,Invalid CVV,2024-08-07 07:03:05.199
+83,Unable to verify PIN,2024-08-07 07:03:05.199
+84,Invalid Authorisation life cycle,2024-08-07 07:03:05.199
+85,No reason for decline ( authorised !!),2024-08-07 07:03:05.199
+86,Invalid Operation / File Update,2024-08-07 07:03:05.199
+87,Request Cryptogram Failure,2024-08-07 07:03:05.199
+88,Fallback Decline,2024-08-07 07:03:05.199
+89,Card Authentication Failed,2024-08-07 07:03:05.199
+90,Inactive Card,2024-08-07 07:03:05.199
+91,Issuer Or Switch Inoperative,2024-08-07 07:03:05.199
+92,Financial Routing Can not be found,2024-08-07 07:03:05.199
+93,Transaction Can not be identified. Law violation.,2024-08-07 07:03:05.199
+94,Duplicate transaction.,2024-08-07 07:03:05.199
+96,System Malfunction,2024-08-07 07:03:05.199
+97,End Global Monitoring Temporization,2024-08-07 07:03:05.199
+98,"Server Unavailable, Network Switch requested or MAC Problem",2024-08-07 07:03:05.199
+99,Requester System Incident,2024-08-07 07:03:05.199

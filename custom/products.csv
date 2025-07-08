@@ -1,0 +1,101 @@
+Schm_code,Schm_Desc (Product),Schm_Type,Product Category,Product Sub-Category,updated_at
+PDSC98,Mega Savings Account,SBA,Deposit,Saving,2024-08-09 10:31:27.125
+PDSC17,Fixed Deposit Plus,TDA,Deposit,Term,2024-08-09 10:31:27.125
+PDSC10,Monthly Recurring Deposit,TDA,Deposit,Cumulative,2024-08-09 10:31:27.125
+PDSC54,Business Current Account,CAA,Deposit,Transactional,2024-08-09 10:31:27.125
+PDSC16,Senior Citizen Savings,SBA,Deposit,Saving,2024-08-09 10:31:27.125
+PDSC81,Short-Term Fixed Deposit,TDA,Deposit,Term,2024-08-09 10:31:27.125
+PDSC107,Daily Recurring Deposit,TDA,Deposit,Cumulative,2024-08-09 10:31:27.125
+PDSC29,Premium Current Account,PCA,Deposit,Transactional,2024-08-09 10:31:27.125
+PDSC30,Women's Savings Account,SBA,Deposit,Saving,2024-08-09 10:31:27.125
+PDSC71,Golden Fixed Deposit,TDA,Deposit,Term,2024-08-09 10:31:27.125
+PDSC24,Instant Personal Loan,PL,Loan,Unsecured,2024-08-09 10:31:27.125
+PDSC10,Home Loan,HL,Loan,Secured,2024-08-09 10:31:27.125
+PDSC59,Kisan Agricultural Loan,AGRI,Loan,Subsidized,2024-08-09 10:31:27.125
+PDSC78,Shiksha Education Loan,EDU,Loan,Education,2024-08-09 10:31:27.125
+PDSC27,SME Business Loan,SME,Loan,Working Capital,2024-08-09 10:31:27.125
+PDSC96,Auto Loan,VEH,Loan,Vehicle,2024-08-09 10:31:27.125
+PDSC70,Flexi Personal Loan,PL,Loan,Unsecured,2024-08-09 10:31:27.125
+PDSC103,Apartment Loan,HL,Loan,Secured,2024-08-09 10:31:27.125
+PDSC54,Organic Farming Loan,AGRI,Loan,Subsidized,2024-08-09 10:31:27.125
+PDSC106,Study Abroad Loan,EDU,Loan,Education,2024-08-09 10:31:27.125
+PDSC60,NepalPay Debit Card,DC,Card,Payment,2024-08-09 10:31:27.125
+PDSC04,Premium Credit Card,CC,Card,Revolving Credit,2024-08-09 10:31:27.125
+PDSC32,Platinum Debit Card,DC,Card,Payment,2024-08-09 10:31:27.125
+PDSC34,Travel Credit Card,CC,Card,Revolving Credit,2024-08-09 10:31:27.125
+PDSC100,Student Debit Card,DC,Card,Payment,2024-08-09 10:31:27.125
+PDSC75,Business Credit Card,CC,Card,Revolving Credit,2024-08-09 10:31:27.125
+PDSC76,Contactless Debit Card,DC,Card,Payment,2024-08-09 10:31:27.125
+PDSC44,Rewards Credit Card,CC,Card,Revolving Credit,2024-08-09 10:31:27.125
+PDSC58,Senior Citizen Debit Card,DC,Card,Payment,2024-08-09 10:31:27.125
+PDSC101,Fuel Credit Card,CC,Card,Revolving Credit,2024-08-09 10:31:27.125
+PDSC65,BankMobile Wallet,MW,Digital,Payment,2024-08-09 10:31:27.125
+PDSC60,Connect IPS Remittance,REM,Digital,Fund Transfer,2024-08-09 10:31:27.125
+PDSC45,QR Payment Wallet,MW,Digital,Payment,2024-08-09 10:31:27.125
+PDSC08,NRN Remittance Account,REM,Digital,Fund Transfer,2024-08-09 10:31:27.125
+PDSC24,Teen Banking App,MW,Digital,Payment,2024-08-09 10:31:27.125
+PDSC01,Instant Cross-Border Transfer,REM,Digital,Fund Transfer,2024-08-09 10:31:27.125
+PDSC89,Merchant Wallet,MW,Digital,Payment,2024-08-09 10:31:27.125
+PDSC43,Corporate Remittance,REM,Digital,Fund Transfer,2024-08-09 10:31:27.125
+PDSC109,Government Payment Wallet,MW,Digital,Payment,2024-08-09 10:31:27.125
+PDSC89,Student Remittance,REM,Digital,Fund Transfer,2024-08-09 10:31:27.125
+PDSC71,Nivesh Pension Plan,PEN,Investment,Retirement,2024-08-09 10:31:27.125
+PDSC11,Equity Mutual Fund,MF,Investment,Market-Linked,2024-08-09 10:31:27.125
+PDSC88,Voluntary Pension Scheme,PEN,Investment,Retirement,2024-08-09 10:31:27.125
+PDSC26,Debt Mutual Fund,MF,Investment,Market-Linked,2024-08-09 10:31:27.125
+PDSC63,Retirement Savings Plan,PEN,Investment,Retirement,2024-08-09 10:31:27.125
+PDSC50,Index Fund,MF,Investment,Market-Linked,2024-08-09 10:31:27.125
+PDSC12,Annuity Plan,PEN,Investment,Retirement,2024-08-09 10:31:27.125
+PDSC10,Sectoral Mutual Fund,MF,Investment,Market-Linked,2024-08-09 10:31:27.125
+PDSC12,Guaranteed Pension Plan,PEN,Investment,Retirement,2024-08-09 10:31:27.125
+PDSC05,International Fund,MF,Investment,Market-Linked,2024-08-09 10:31:27.125
+PDSC96,Term Life Insurance,LIF,Insurance,Life,2024-08-09 10:31:27.125
+PDSC13,Health Insurance,HLT,Insurance,Medical,2024-08-09 10:31:27.125
+PDSC10,Endowment Plan,LIF,Insurance,Life,2024-08-09 10:31:27.125
+PDSC28,Critical Illness Cover,HLT,Insurance,Medical,2024-08-09 10:31:27.125
+PDSC77,Child Plan,LIF,Insurance,Life,2024-08-09 10:31:27.125
+PDSC19,Hospital Cash Plan,HLT,Insurance,Medical,2024-08-09 10:31:27.125
+PDSC89,Whole Life Policy,LIF,Insurance,Life,2024-08-09 10:31:27.125
+PDSC81,Accident Cover,HLT,Insurance,Medical,2024-08-09 10:31:27.125
+PDSC64,Retirement Life Plan,LIF,Insurance,Life,2024-08-09 10:31:27.125
+PDSC71,Family Health Plan,HLT,Insurance,Medical,2024-08-09 10:31:27.125
+PDSC32,Trade Finance,TRM,Corporate,Trade,2024-08-09 10:31:27.125
+PDSC17,Letter of Credit,TRM,Corporate,Trade,2024-08-09 10:31:27.125
+PDSC19,Export Credit,TRM,Corporate,Trade,2024-08-09 10:31:27.125
+PDSC60,Import Financing,TRM,Corporate,Trade,2024-08-09 10:31:27.125
+PDSC13,Working Capital Loan,TRM,Corporate,Trade,2024-08-09 10:31:27.125
+PDSC64,Bill Discounting,TRM,Corporate,Trade,2024-08-09 10:31:27.125
+PDSC92,Guarantee Services,TRM,Corporate,Trade,2024-08-09 10:31:27.125
+PDSC82,Supply Chain Finance,TRM,Corporate,Trade,2024-08-09 10:31:27.125
+PDSC100,Foreign Currency Loan,TRM,Corporate,Trade,2024-08-09 10:31:27.125
+PDSC47,Project Financing,TRM,Corporate,Trade,2024-08-09 10:31:27.125
+PDSC59,Youth Entrepreneurship Loan,SUB,Government,Subsidized,2024-08-09 10:31:27.125
+PDSC15,Women Empowerment Scheme,SUB,Government,Subsidized,2024-08-09 10:31:27.125
+PDSC62,Disability Support Loan,SUB,Government,Subsidized,2024-08-09 10:31:27.125
+PDSC74,Green Energy Financing,SUB,Government,Subsidized,2024-08-09 10:31:27.125
+PDSC94,Rural Development Loan,SUB,Government,Subsidized,2024-08-09 10:31:27.125
+PDSC107,Startup Seed Fund,SUB,Government,Subsidized,2024-08-09 10:31:27.125
+PDSC23,Agro-Processing Loan,SUB,Government,Subsidized,2024-08-09 10:31:27.125
+PDSC16,Education Grant,SUB,Government,Subsidized,2024-08-09 10:31:27.125
+PDSC45,Microenterprise Loan,SUB,Government,Subsidized,2024-08-09 10:31:27.125
+PDSC13,Tourism Promotion Fund,SUB,Government,Subsidized,2024-08-09 10:31:27.125
+PDSC02,NRN Savings Account,NRI,NRI,Deposit,2024-08-09 10:31:27.125
+PDSC33,NRN Fixed Deposit,NRI,NRI,Term,2024-08-09 10:31:27.125
+PDSC04,NRO Savings Account,NRI,NRI,Deposit,2024-08-09 10:31:27.125
+PDSC64,NRO Fixed Deposit,NRI,NRI,Term,2024-08-09 10:31:27.125
+PDSC74,FCNR Account,NRI,NRI,Deposit,2024-08-09 10:31:27.125
+PDSC47,NRE Fixed Deposit,NRI,NRI,Term,2024-08-09 10:31:27.125
+PDSC24,Diaspora Savings Plan,NRI,NRI,Deposit,2024-08-09 10:31:27.125
+PDSC43,Foreign Currency Deposit,NRI,NRI,Term,2024-08-09 10:31:27.125
+PDSC93,Overseas Citizen Account,NRI,NRI,Deposit,2024-08-09 10:31:27.125
+PDSC79,Global NRI Deposit,NRI,NRI,Term,2024-08-09 10:31:27.125
+PDSC90,Robo-Advisory Platform,DINV,Digital,Investment,2024-08-09 10:31:27.125
+PDSC107,Stock Trading App,DINV,Digital,Investment,2024-08-09 10:31:27.125
+PDSC86,ETF Investment Portal,DINV,Digital,Investment,2024-08-09 10:31:27.125
+PDSC80,IPO Subscription App,DINV,Digital,Investment,2024-08-09 10:31:27.125
+PDSC75,Digital Gold Platform,DINV,Digital,Investment,2024-08-09 10:31:27.125
+PDSC21,Crypto Trading Desk,DINV,Digital,Investment,2024-08-09 10:31:27.125
+PDSC07,Bond Trading Platform,DINV,Digital,Investment,2024-08-09 10:31:27.125
+PDSC47,REIT Investment Portal,DINV,Digital,Investment,2024-08-09 10:31:27.125
+PDSC83,Algorithmic Trading Tool,DINV,Digital,Investment,2024-08-09 10:31:27.125
+PDSC102,ESG Investment App,DINV,Digital,Investment,2024-08-09 10:31:27.125

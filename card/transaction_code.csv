@@ -1,0 +1,343 @@
+tco_code,tco_labe,tco_ewallet,tco_vtc_code,tco_cent_sign,tco_chld_sign,tco_merc_sign,tco_revo_flag,tco_pre_paid_flag,tco_acqu_bank_sign,tco_issu_bank_sign,updated_at
+1000,Express Replacement Fee,Y,,N,D,,A,,D,,2024-08-07 07:05:16.809
+1900,Premium fee,N,10.0,,D,,N,N,,,2024-08-07 07:05:16.809
+5000,Purchase,N,5.0,N,D,C,A,A,N,N,2024-08-07 07:05:16.809
+5001,Financial Transaction without Cash,N,5.0,,D,C,A,A,,,2024-08-07 07:05:16.809
+5002,Unique Transaction,N,5.0,N,D,C,A,A,N,N,2024-08-07 07:05:16.809
+5003,Emi FC Normal transaction,N,5.0,,D,C,A,N,,,2024-08-07 07:05:16.809
+6000,Credit Voucher,N,6.0,,C,D,A,A,,,2024-08-07 07:05:16.809
+7000,Cash Disbursement(ATM),N,7.0,,D,C,A,A,,,2024-08-07 07:05:16.809
+7001,Cash Advance (POS),N,7.0,,D,C,A,A,,,2024-08-07 07:05:16.809
+7002,Cash Advance(Manual),N,7.0,,D,C,A,A,,,2024-08-07 07:05:16.809
+7003,Cash Back,N,7.0,,D,C,A,A,,,2024-08-07 07:05:16.809
+7004,Quasi Cash,N,7.0,,D,C,A,A,,,2024-08-07 07:05:16.809
+7005,Funds Disbursement,N,7.0,,D,C,A,A,,,2024-08-07 07:05:16.809
+7006,Cash Out,Y,7.0,,D,C,A,A,,,2024-08-07 07:05:16.809
+7007,SALARY WITHDRAWAL (POS),N,7.0,,D,C,A,A,,,2024-08-07 07:05:16.809
+7011,WS DEBIT CREDIT,N,7.0,,D,C,A,A,,,2024-08-07 07:05:16.809
+10000,GENERAL PURPOSE FEE DEBIT,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10001,Fees Collection : Center Commission,N,10.0,,,,N,,,,2024-08-07 07:05:16.809
+10002,Bank Commission Fee,N,10.0,,,,A,,,,2024-08-07 07:05:16.809
+10003,Cash Advance Fee,N,10.0,,D,,A,A,,C,2024-08-07 07:05:16.809
+10004,Merchant Commission Debit,B,10.0,,,D,A,A,,,2024-08-07 07:05:16.809
+10005,Fees Collection : Interchange Fees Acquirer to Issuer,N,,,,,,,,,2024-08-07 07:05:16.809
+10006,Fees Collection : Interchange Fees Issuer To Acquirer,N,,,,,,,,,2024-08-07 07:05:16.809
+10007,Cash Advance Fee Refund,N,,,C,,A,,,,2024-08-07 07:05:16.809
+10008,Fees Collection : Merchant Commission Credit,B,,,,C,,,,,2024-08-07 07:05:16.809
+10010,UG Test - Bictoin Processing Fee,N,,,D,,A,,,,2024-08-07 07:05:16.809
+10020,Credit Application Fee,N,10.0,,D,,A,N,,,2024-08-07 07:05:16.809
+10021,Rev Airline Cash Back,N,10.0,,D,,N,N,,,2024-08-07 07:05:16.809
+10022,Adjustment Fee,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10023,Currency conversion Fee,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10024,Variation Fee,N,10.0,,D,,A,,,,2024-08-07 07:05:16.809
+10100,CARD JOINING FEE,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10101,CARD REPLACEMENT FEE,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10102,PIN CALCULATION FEE,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10103,CARD RENEW FEE,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10104,CARD INSURANCE FEE,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+10105,CARD MISCELLANEOUS FEE,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+10106,CARD ANNUAL FEE,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10107,Fees Collection : Pre-Paid Card Initial Load Fee,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+10108,Fees Collection : Pre-Paid Card Reload Fee,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+10109,Fees Collection : Pre-Paid Card redemption Fee,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+10110,Fees Collection : Pre-Paid Card Overline Fee,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+10111,Fees Collection : Pre-Paid Card Inactivity Fee,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+10112,Fees Collection : Pre-Paid Card Returned Debit Fee,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+10113,Fees Collection : Pre-Paid Card Link Fee,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+10114,Miscellaneous Debit,N,10.0,,D,,A,,,,2024-08-07 07:05:16.809
+10115,Change Limit Fee,N,10.0,,D,,A,,,,2024-08-07 07:05:16.809
+10116,CARD INACTIVE FEE,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10117,Pin Clear Request Fees,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10118,Instant Fee,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10119,EMI Request Fees,N,10.0,,D,,A,A,,C,2024-08-07 07:05:16.809
+10120,Late Payment Fee,N,10.0,,D,,A,N,,,2024-08-07 07:05:16.809
+10121,CREDIT UNPAID TERM FEE,N,10.0,,D,,A,N,,,2024-08-07 07:05:16.809
+10122,OVERLINE FEE,N,10.0,,D,,A,N,,,2024-08-07 07:05:16.809
+10123,Fees Collection : Credit Insurance Fee,N,10.0,,D,,N,N,,,2024-08-07 07:05:16.809
+10124,CREDIT MISCELLANEOUS FEE,N,10.0,,D,,N,N,,,2024-08-07 07:05:16.809
+10125,CREDIT MISCELLANEOUS TRANS.  FEE,N,10.0,,D,,N,N,,,2024-08-07 07:05:16.809
+10126,CREDIT ADMINISTRATIVE STATUS FEE,N,10.0,,D,,A,N,,,2024-08-07 07:05:16.809
+10127,DOCUMENT DEPOSIT FEE,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+10128,Misused,N,10.0,,D,,A,N,,,2024-08-07 07:05:16.809
+10129,DHL Charge,N,10.0,,D,,A,N,,,2024-08-07 07:05:16.809
+10130,Card Reported Lost,N,10.0,,D,,A,N,,,2024-08-07 07:05:16.809
+10131,Interest Fees (Suspicious Fee),N,10.0,,D,,A,N,,,2024-08-07 07:05:16.809
+10132,Card eCom Fee,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10218,Check Deposit Fee,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+10219,Authentication Request Fee,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+10220,Balance Inquiry Fee,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10221,Address Verification Fee,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10222,Telecode Verification Fee,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+10223,RIB Request Fee,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+10224,Account List Fee,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10225,ATM Statement Fee,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10226,Statement Request Fee,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10227,Short Statement Request Fee,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10228,Checkbook Request Fee,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+10229,Account Transfer Fee,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+10230,Account Verification (ePay) Fee,N,10.0,,D,,,A,,,2024-08-07 07:05:16.809
+10231,PIN Change Request Fee,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10232,Loan Request Fee,N,10.0,,D,,,A,,,2024-08-07 07:05:16.809
+10233,Fees Collection : Guarrantee Check Fee,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+10234,Periodical Fee - TI225 -,N,,,D,,A,,,,2024-08-07 07:05:16.809
+10235,Fees Collection : Express Delivery Fee,N,10.0,,D,,A,A,,C,2024-08-07 07:05:16.809
+10236,Fees Collection : New Design Fee,N,10.0,,D,,Y,Y,,C,2024-08-07 07:05:16.809
+10237,Fees Collection : Withdrawal commission,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10238,Merchant Application Fees,N,,N,,D,N,N,C,N,2024-08-07 07:05:16.809
+10239,Merchant Membership Fees,N,,N,,D,N,N,C,N,2024-08-07 07:05:16.809
+10240,Merchant Misc. Periodical Fees,N,,N,,D,N,N,C,N,2024-08-07 07:05:16.809
+10244,AirPort Lounge Subscription,N,,,D,,A,,,,2024-08-07 07:05:16.809
+10250,Salary Inquiry Fee,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10251,ATM Cardless Transaction,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10254,Travel Benefit Subscription,N,,,D,,A,,,,2024-08-07 07:05:16.809
+10260,LTF Cancellation Fee,N,,,D,,A,,,,2024-08-07 07:05:16.809
+10261,Reprint Statement Fee,N,,,D,,A,,,,2024-08-07 07:05:16.809
+10300,Cardholder Establishment Fee,N,,,D,,A,N,,,2024-08-07 07:05:16.809
+10301,Merchant Establishment Fee,N,10.0,,,D,A,N,,,2024-08-07 07:05:16.809
+10302,Long Term Finance Cancel Fee,N,,,,D,,,,,2024-08-07 07:05:16.809
+10900,CARD OPPOSITION FEE,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+10901,SMS FEE,N,,,D,,A,A,,,2024-08-07 07:05:16.809
+10998,FX Markup Fee,N,10.0,,D,,A,A,,,2024-08-07 07:05:16.809
+11000,Interest Charge,N,,,D,,A,A,,,2024-08-07 07:05:16.809
+11001,Compound Interest,N,,,D,,A,A,,,2024-08-07 07:05:16.809
+11002,CHARGE REFUND,N,,,C,,A,A,,,2024-08-07 07:05:16.809
+11005,Penality Interest,N,,,D,,A,,,,2024-08-07 07:05:16.809
+12000,Advance Payment,N,,,C,,A,A,,,2024-08-07 07:05:16.809
+12001,COLLECTION PAYMENT,N,,,C,,,,,,2024-08-07 07:05:16.809
+12002,MOSAIC PAYMENT,N,,,C,,,,,,2024-08-07 07:05:16.809
+12003,IL Payment,N,,,C,,,,,,2024-08-07 07:05:16.809
+12004,Credit to Bank Account,N,,,C,,A,,,,2024-08-07 07:05:16.809
+12005,FLUID PAYMENT,N,,,C,,,,,,2024-08-07 07:05:16.809
+12006,SWIFT PAYMENT,N,,,C,,A,,,,2024-08-07 07:05:16.809
+12007,Variation Credit Transaction,N,,,C,,A,,,,2024-08-07 07:05:16.809
+12010,UG Test - Bitcoin Payment,N,,,C,,A,,,,2024-08-07 07:05:16.809
+12014,Advance Payment Reversal,N,,,D,,A,,,,2024-08-07 07:05:16.809
+12015,IVR PAYMENT,N,,,C,,,,,,2024-08-07 07:05:16.809
+12016,DIRECT DEBIT PAYMENT,N,,,C,,A,,,,2024-08-07 07:05:16.809
+12017,Real Time Payment,N,,,C,,A,,,,2024-08-07 07:05:16.809
+12099,Bonus Point Reward,N,12.0,,C,,A,A,,,2024-08-07 07:05:16.809
+12100,Real Time Payment Screen,N,,,C,,A,,,,2024-08-07 07:05:16.809
+13000,CREDIT LIMIT CHANGE FEE,N,,,D,,A,N,,,2024-08-07 07:05:16.809
+13001,CASH RELOAD (OTHER CREDIT),N,,,C,,A,N,,,2024-08-07 07:05:16.809
+13002,Other Debit,N,10.0,,D,,A,A,,C,2024-08-07 07:05:16.809
+13003,Credit Adjustement,N,,,C,,N,A,,,2024-08-07 07:05:16.809
+13004,Debit Adjustement,N,,,D,,A,A,,,2024-08-07 07:05:16.809
+13005,Merchant : Debit Transaction Adjustment,N,,,N,D,,,,,2024-08-07 07:05:16.809
+13006,Merchant Debit Sales Draft Chargeback,N,,,,D,,,,,2024-08-07 07:05:16.809
+13007,Merchant Debit Credit Voucher Chargeback Reversal,N,,,,D,,,,,2024-08-07 07:05:16.809
+13008,Merchant Debit Cash Disbursements Chargeback,N,,,,D,,,,,2024-08-07 07:05:16.809
+13009,Merchant Debit Sales Draft Reversal,N,,,,D,,,,,2024-08-07 07:05:16.809
+13010,Merchant Debit Credit Voucher Representment,N,,,,D,,,,,2024-08-07 07:05:16.809
+13011,Merchant Debit Cash Disbursements Reversal,N,,,,D,,,,,2024-08-07 07:05:16.809
+13012,CASH RELOAD,N,,,C,,A,N,,,2024-08-07 07:05:16.809
+13015,Credit to Bank Account,N,,,D,,A,,,,2024-08-07 07:05:16.809
+13017,Advance Payment Reversal,N,,,D,,A,,,,2024-08-07 07:05:16.809
+13030,Merchant Credit Transaction Adjustment,N,,,,C,,,,,2024-08-07 07:05:16.809
+13031,Merchant Credit Sales Draft Chargeback Reversal,N,,,,C,,,,,2024-08-07 07:05:16.809
+13032,Merchant Credit Credit Voucher Chargeback,N,,,,C,,,,,2024-08-07 07:05:16.809
+13033,Merchant Credit Cash Disbursements Chargeback Reversal,N,,,,C,,,,,2024-08-07 07:05:16.809
+13034,Merchant Credit Sales draft Representment,N,,,,C,,,,,2024-08-07 07:05:16.809
+13035,Merchant Credit Credit Voucher Representment Reversal,N,,,,C,,,,,2024-08-07 07:05:16.809
+13036,Merchant Credit Cash Disbursements Representment,N,,,,C,,,,,2024-08-07 07:05:16.809
+13073,Prepaid Credit TopUp - WS.EGATE,N,10.0,,C,,N,A,,,2024-08-07 07:05:16.809
+13083,Prepaid Credit Transfert - Mobile CH,N,10.0,,C,,N,A,,,2024-08-07 07:05:16.809
+13084,Prepaid Debit Transfert - Mobile CH,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+13088,Debit customer after creating of new card M,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+13089,Initial Load - Mobile CH,N,10.0,,C,,N,A,,,2024-08-07 07:05:16.809
+13091,Credit Adjustment - Portal Corp.,N,10.0,,C,,N,A,,,2024-08-07 07:05:16.809
+13092,Debit Adjustment - Portal Corp.,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+13093,Prepaid Credit TopUp - WebPortal CH,N,10.0,,C,,N,A,,,2024-08-07 07:05:16.809
+13094,Prepaid Debit TopUp - WebPortal CH,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+13095,Prepaid Credit Overdrawn,N,10.0,,C,,N,A,,,2024-08-07 07:05:16.809
+13096,Prepaid Debit Overdrawn,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+13097,Prepaid Overdrawn Fee,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+13098,Debit customer after creating of new card,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+13099,Initial Load - WebPortal CH,N,10.0,,C,,N,A,,,2024-08-07 07:05:16.809
+13100,Cardholder Debit Transaction Adjustment,N,,,D,,A,,,C,2024-08-07 07:05:16.809
+13101,Cardholder Debit Sales Draft Chargeback Reversal,N,,,D,,A,,,C,2024-08-07 07:05:16.809
+13102,Cardholder Debit Credit Voucher Chargeback,N,,,D,,A,,,C,2024-08-07 07:05:16.809
+13103,Cardholder Debit Cash Disbursements Chargeback Reversal,N,,,D,,A,,,C,2024-08-07 07:05:16.809
+13104,Cardholder Debit Sales draft Representment,N,,,D,,A,,,C,2024-08-07 07:05:16.809
+13105,Cardholder Debit Credit Voucher Representment Reversal,N,,,D,,A,,,C,2024-08-07 07:05:16.809
+13106,Cardholder Debit Cash Disbursements Representment,N,,,D,,A,,,C,2024-08-07 07:05:16.809
+13108,Installment,N,13.0,,D,C,A,N,,,2024-08-07 07:05:16.809
+13109,EMI-Installment Interest,N,13.0,,D,C,A,N,,,2024-08-07 07:05:16.809
+13110,Debit Transaction Migration,N,,,D,,A,,,C,2024-08-07 07:05:16.809
+13150,Cardholder Credit Transaction Adjustment,N,,,C,,A,,,,2024-08-07 07:05:16.809
+13151,Cardholder Credit Sales Draft Chargeback,N,,,C,,A,,,,2024-08-07 07:05:16.809
+13152,Cardholder Credit Credit Voucher Chargeback Reversal,N,,,C,,A,,,,2024-08-07 07:05:16.809
+13153,Cardholder Credit Cash Disbursements Chargeback,N,,,C,,A,,,,2024-08-07 07:05:16.809
+13154,Cardholder Credit Sales Draft Reversal,N,,,C,,A,,,,2024-08-07 07:05:16.809
+13155,Cardholder Credit Credit Voucher Representment,N,,,C,,A,,,,2024-08-07 07:05:16.809
+13156,Cardholder Credit Cash Disbursements Reversal,N,,,C,,A,,,,2024-08-07 07:05:16.809
+13157,Credit Transaction Migration,N,,,C,,A,,,,2024-08-07 07:05:16.809
+13193,Prepaid Credit TRSF - EBANKING,N,10.0,,C,,N,A,,,2024-08-07 07:05:16.809
+13194,Prepaid Debit TRSF - EBANKING,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+13293,Prepaid Credit CC TRSF - EBANKING,N,10.0,,C,,N,A,,,2024-08-07 07:05:16.809
+13294,Prepaid Debit CC TRSF - EBANKING,N,10.0,,D,,N,A,,,2024-08-07 07:05:16.809
+14000,REFUND,N,,,C,D,A,A,,,2024-08-07 07:05:16.809
+14001,Loan Refund,N,,,D,,,,,,2024-08-07 07:05:16.809
+14002,Quasi Cash Refund,N,,,,,,,,,2024-08-07 07:05:16.809
+15000,Purchase Chargeback,N,15.0,,C,D,A,A,,,2024-08-07 07:05:16.809
+15002,Purchase Chargeback,N,15.0,,C,D,A,A,,,2024-08-07 07:05:16.809
+16000,Credit Voucher Chargeback,N,16.0,,D,C,A,A,,,2024-08-07 07:05:16.809
+17000,Cash Disbursements Chargeback,N,17.0,,C,D,A,A,,,2024-08-07 07:05:16.809
+17001,Cash Disbursements Chargeback,N,17.0,,C,D,A,A,,,2024-08-07 07:05:16.809
+17002,Cash Advance Manual Chargeback,N,17.0,,C,D,A,A,,,2024-08-07 07:05:16.809
+18000,Redemption,N,,,D,,,,,,2024-08-07 07:05:16.809
+18001,Pre-Paid Redemption,N,,,D,,N,A,,,2024-08-07 07:05:16.809
+19000,Pre-paid Initial Load,N,,,C,,,,,,2024-08-07 07:05:16.809
+19001,Pre-Paid Reload,N,,,C,,N,A,,,2024-08-07 07:05:16.809
+19005,Pre-Paid Merchant Payment,N,,,C,,N,A,,,2024-08-07 07:05:16.809
+19006,Pre-Paid Merchant Payment Debit,N,,,D,,N,A,,,2024-08-07 07:05:16.809
+20000,General Purpose Fee Credit,N,20.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20001,Fees Disbursement : Center Commission,N,20.0,,,,,,,,2024-08-07 07:05:16.809
+20002,Bank Commission Fee Refund,N,20.0,,,,A,,,,2024-08-07 07:05:16.809
+20003,Cardholder Commission Fee Refund,N,20.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20004,Fees Disbursement : Merchant Commission,N,20.0,,,,,,,,2024-08-07 07:05:16.809
+20020,Credit Application Fee Refund,N,20.0,,C,,A,N,,,2024-08-07 07:05:16.809
+20021,Airline Cash back,N,20.0,,C,,N,N,,,2024-08-07 07:05:16.809
+20022,Adjustment Fee Refund,N,20.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20023,Currency Conversion Fee Refund,N,10.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20100,Card Personalisation Fee Refund,N,20.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20101,Card replacement Fee Refund,N,20.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20102,Pin Calculation Fee Refund,N,20.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20103,Fees Disbursement : Card Renew Fee,N,20.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20104,Fees Disbursement : Card Insurance Fee,N,20.0,,C,,N,A,,,2024-08-07 07:05:16.809
+20105,Fees Disbursement : Card Miscellaneous Fee,N,20.0,,C,,N,A,,,2024-08-07 07:05:16.809
+20106,CARD MEMBERSHIP FEE REFUND,N,20.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20107,Fees Disbursement: Pre-Paid Card Initial Load Fee,N,20.0,,D,,,,,,2024-08-07 07:05:16.809
+20108,Fees Disbursement: Pre-Paid Card Reload Fee,N,20.0,,C,,,,,,2024-08-07 07:05:16.809
+20109,Fees Disbursement: Pre-Paid Card redemption Fee,N,20.0,,C,,,,,,2024-08-07 07:05:16.809
+20110,Fees Disbursement: Pre-Paid Card Overline Fee,N,20.0,,C,,,,,,2024-08-07 07:05:16.809
+20111,Fees Disbursement: Pre-Paid Card Inactivity Fee,N,20.0,,C,,,,,,2024-08-07 07:05:16.809
+20112,Fees Disbursement: Pre-Paid Card returned debit Fee,N,20.0,,C,,,,,,2024-08-07 07:05:16.809
+20114,Miscellaneous Credit,N,20.0,,C,,A,,,,2024-08-07 07:05:16.809
+20115,Change Limit Fee Refund,N,20.0,,C,,A,,,,2024-08-07 07:05:16.809
+20120,Late payment Fee - Refund -,N,20.0,,C,,A,N,,,2024-08-07 07:05:16.809
+20121,Credit Unpaid Term Fee Refund,N,20.0,,C,,A,N,,,2024-08-07 07:05:16.809
+20122,Overline Fee - Refund -,N,20.0,,C,,A,N,,,2024-08-07 07:05:16.809
+20123,Fees Disbursement: Credit Insurance Fee,N,20.0,,C,,N,N,,,2024-08-07 07:05:16.809
+20124,Fees Disbursement : Credit Miscellaneous  Fee,N,20.0,,C,,N,N,,,2024-08-07 07:05:16.809
+20125,Fees Disbursement : Credit Miscellaneous Transaction Fee,N,20.0,,C,,N,N,,,2024-08-07 07:05:16.809
+20126,Credit Administrative Status Fee Refund,N,20.0,,C,,A,N,,,2024-08-07 07:05:16.809
+20127,Fees Disbursement : Document Deposit Fee,N,20.0,,C,,,,,,2024-08-07 07:05:16.809
+20128,Misused Fee Refund,N,20.0,,C,,A,,,,2024-08-07 07:05:16.809
+20129,DHL Charge Refund,N,20.0,,C,,A,,,,2024-08-07 07:05:16.809
+20130,Card Reported Lost Refund,N,20.0,,C,,A,,,,2024-08-07 07:05:16.809
+20218,Fees Disbursement : Check Deposit Fee,N,20.0,,C,,,,,,2024-08-07 07:05:16.809
+20219,Fees Disbursement : Authentication Request Fee,N,20.0,,C,,,,,,2024-08-07 07:05:16.809
+20220,Balance Inquiry Fee Refund,N,20.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20221,Address Verification Fee Refund,N,20.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20222,Fees Disbursement : Telecode Verification Fee,N,20.0,,C,,N,A,,,2024-08-07 07:05:16.809
+20223,Fees Disbursement : RIB Request Fee,N,20.0,,C,,N,A,,,2024-08-07 07:05:16.809
+20224,Account List Fee Refund,N,20.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20225,ATM Statement Fee Refund,N,20.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20226,Statement Request Fee Refund,N,20.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20227,Short Statement Request Fee Refund,N,20.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20228,Fees Disbursement : Checkbook Request Fee,N,20.0,,C,,N,A,,,2024-08-07 07:05:16.809
+20229,Fees Disbursement : Account Transfer Fee,N,20.0,,C,,,,,,2024-08-07 07:05:16.809
+20230,Fees Disbursement : Account Verification (ePay) Fee,N,20.0,,C,,,,,,2024-08-07 07:05:16.809
+20231,PIN Change Request Fee Refund,N,20.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20232,Fees Disbursement : Loan Request Fee,N,20.0,,C,,,,,,2024-08-07 07:05:16.809
+20233,Fees Disbursement : Guarranty Cheque Fee,N,20.0,,C,,N,A,,,2024-08-07 07:05:16.809
+20234,Travel Insurance - Refund,N,20.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20235,Fees Disbursement : Express Delivery Fee,N,10.0,,C,,Y,Y,,C,2024-08-07 07:05:16.809
+20236,Fees Collection : New Design Fee,N,10.0,,C,,Y,Y,,C,2024-08-07 07:05:16.809
+20244,AirPort Lounge - Refund -,N,20.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20254,Travel Benefit - Refund -,N,20.0,,C,,A,A,,,2024-08-07 07:05:16.809
+20300,Establishment Fee Reversal,N,,,C,,A,N,,,2024-08-07 07:05:16.809
+20301,Merchant Establishment Fee Reversal,N,20.0,,,C,A,N,,,2024-08-07 07:05:16.809
+21000,Non-Finnacial Transaction,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21001,Document Deposit,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21002,Check Deposit,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21003,Authentication Request,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21004,Balance Inquiry,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21005,Address Verification,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21006,Telecode Verification,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21007,RIB Request,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21008,Account List,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21009,ATM Statement,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21010,Statement Request,N,,,D,,N,A,,,2024-08-07 07:05:16.809
+21011,Short Statement Request,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21012,Checkbook Request,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21013,Account Transfer,N,,,D,,A,A,,,2024-08-07 07:05:16.809
+21014,Account Verification (ePay),N,,,,,A,A,,,2024-08-07 07:05:16.809
+21015,PIN Change Request,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21016,Loan Request,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21017,Check Verification,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21018,Eurocheck,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21019,Traveler's Check,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21020,Letter of Credit,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21021,Card Capture,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21022,Certificate Transaction Request,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21023,Alarm Transaction,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21024,E-commerce Cardholder Certificate Request,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21025,Unterminated transaction,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21044,Salary Balance Inquiry,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21045,Salary Fees Inquiry,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21046,Bill Inquiry,N,,,,,A,A,,,2024-08-07 07:05:16.809
+21050,MPOS Balance Inquiry,N,,C,D,,A,A,,C,2024-08-07 07:05:16.809
+22000,Guarantee,N,,,,,A,A,,,2024-08-07 07:05:16.809
+22001,Check Guarantee,N,,,D,,A,A,,,2024-08-07 07:05:16.809
+22002,Check Deposit Guarantee,N,,,,,A,A,,,2024-08-07 07:05:16.809
+25000,Purchase Reversal,N,25.0,,C,D,A,A,,,2024-08-07 07:05:16.809
+25002,SALES DRAFT REVERSAL,N,25.0,,C,D,A,A,,,2024-08-07 07:05:16.809
+26000,CREDIT VOUCHER REVERSALl,N,26.0,,D,C,A,N,,,2024-08-07 07:05:16.809
+27000,Cash Disbursements Reversal,N,27.0,,C,D,A,A,,,2024-08-07 07:05:16.809
+27001,Cash Advance Reversal,N,27.0,,C,D,A,A,,,2024-08-07 07:05:16.809
+27002,Cash Advance Manual Reversal,N,27.0,,C,D,A,A,,,2024-08-07 07:05:16.809
+28000,MasterCard Credit,N,,,C,,A,A,,,2024-08-07 07:05:16.809
+35000,CHARGEBACK REVERSAL (Sales),N,35.0,,D,C,A,A,,,2024-08-07 07:05:16.809
+36000,Credit Voucher Chargeback Reversal,N,36.0,,C,D,A,N,,,2024-08-07 07:05:16.809
+37000,CHARGEBACK REVERSAL (Cash),N,37.0,,D,C,A,A,,,2024-08-07 07:05:16.809
+37001,CHARGEBACK REVERSAL (Cash Advance),N,37.0,,D,C,A,A,,,2024-08-07 07:05:16.809
+37002,CHARGEBACK REVERSAL (Cash Advance Manual),N,37.0,,D,C,A,A,,,2024-08-07 07:05:16.809
+40001,CREDIT REVOLVING CASH BACK,N,40.0,,C,,A,N,,,2024-08-07 07:05:16.809
+40036,EMI Transaction Reversal,N,40.0,,C,D,A,N,,,2024-08-07 07:05:16.809
+40037,Flexi LTF Reversal,N,40.0,,C,D,A,N,,,2024-08-07 07:05:16.809
+40038,LTF WSS Cancel Transaction,N,40.0,,C,D,A,N,,,2024-08-07 07:05:16.809
+43000,CardLess Withdrawal,,,,D,C,A,A,,,2024-08-07 07:05:16.809
+71001,Merchant Service Fee Debit Adjustment,N,,,,D,,,,,2024-08-07 07:05:16.809
+71501,Insurance Claim Payout Adjustment - Customer,N,,,D,,A,,,,2024-08-07 07:05:16.809
+71502,Interest Adjustment Debit,N,,,D,,A,,,,2024-08-07 07:05:16.809
+71503,Bad Debt Write Off Adjustment,N,,,D,,A,,,,2024-08-07 07:05:16.809
+71504,Bad Debt Recovered Adjustment,N,,,D,,A,,,,2024-08-07 07:05:16.809
+71505,Fraud Recovery Adjustment,N,,,D,,A,,,,2024-08-07 07:05:16.809
+71506,Fraud Write Off Adjustment,N,,,D,,A,,,,2024-08-07 07:05:16.809
+72001,Merchant Service Fee Credit Adjustment,N,,,,C,,,,,2024-08-07 07:05:16.809
+72002,Merchant Reprocess Payout - Credit Adjustment,N,,,,C,,,,,2024-08-07 07:05:16.809
+72501,Insurance Claim Payout - Customer,N,,,C,,A,,,,2024-08-07 07:05:16.809
+72502,Interest Adjustment Credit,N,,,C,,A,,,,2024-08-07 07:05:16.809
+72503,Bad Debt Write Off,N,,,C,,A,,,,2024-08-07 07:05:16.809
+72504,Bad Debt Recovered,N,,,C,,A,,,,2024-08-07 07:05:16.809
+72505,Fraud Recovery,N,,,C,,A,,,,2024-08-07 07:05:16.809
+72506,Fraud Write Off,N,,,C,,A,,,,2024-08-07 07:05:16.809
+72507,LTF Cancellation Fee Credit,N,,,C,,A,,,,2024-08-07 07:05:16.809
+72508,LTF Cancellation,N,,,C,,A,,,,2024-08-07 07:05:16.809
+73010,Biller Fee,B,,,,,,,,,2024-08-07 07:05:16.809
+73011,Discount Fee,B,,,,,,,,,2024-08-07 07:05:16.809
+73100,Acquirer To Dealer Deposit,Y,,,,C,,,,,2024-08-07 07:05:16.809
+73101,Acquirer To Dealer Deposit Refund,Y,,,,D,,,,,2024-08-07 07:05:16.809
+73102,Distribution to dealer,Y,,,,D,,,,,2024-08-07 07:05:16.809
+73103,Distribution to agent,Y,,,,D,,,,,2024-08-07 07:05:16.809
+73104,Deposit from parent dealer,Y,,,,C,,,,,2024-08-07 07:05:16.809
+73105,Deposit from dealer,Y,,,,C,,,,,2024-08-07 07:05:16.809
+73106,Refund Distribution to agent,Y,,,,C,,,,,2024-08-07 07:05:16.809
+73107,Refund Deposit from dealer,Y,,,,D,,,,,2024-08-07 07:05:16.809
+73108,Refund Distribution to dealer,Y,,,,C,,,,,2024-08-07 07:05:16.809
+73109,Refund Deposit from parent dealer,Y,,,,D,,,,,2024-08-07 07:05:16.809
+73300,Biller E-Voucher Deposit,Y,,,,,,,,,2024-08-07 07:05:16.809
+73301,Biller E-Voucher Deposit Refund,Y,,,,,,,,,2024-08-07 07:05:16.809
+73400,Bill Payment Card,B,,,D,C,,,,,2024-08-07 07:05:16.809
+73401,Bill Payment Cash,Y,,,D,D,,,,,2024-08-07 07:05:16.809
+73500,Online E-Voucher Card,B,,,D,C,,,,,2024-08-07 07:05:16.809
+73501,Online E-Voucher Cash,Y,,,D,D,,,,,2024-08-07 07:05:16.809
+73504,E-TopUp Card,B,,,D,C,,,,,2024-08-07 07:05:16.809
+73505,E-TopUp Cash,Y,,,D,D,,,,,2024-08-07 07:05:16.809
+73550,Offline E-Voucher Card,B,,,D,C,,,,,2024-08-07 07:05:16.809
+73551,Offline E-Voucher Cash,Y,,,D,D,,,,,2024-08-07 07:05:16.809
+73604,Cash In,Y,25.0,,C,D,A,A,,,2024-08-07 07:05:16.809
+73900,Pre-Paid Card Request,Y,,,C,D,,,,,2024-08-07 07:05:16.809
+73901,E-Commerce Card Request,Y,,,C,D,,,,,2024-08-07 07:05:16.809
+73902,Pre-Paid Card Link,Y,,,C,D,,,,,2024-08-07 07:05:16.809
