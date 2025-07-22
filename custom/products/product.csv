@@ -1,0 +1,101 @@
+Product ID,Product Name,Category,Subcategory,Schema Type
+DEP-SAV-001,Mega Savings Account,Deposit,Saving,SBA
+DEP-FD-002,Fixed Deposit Plus,Deposit,Term,TDA
+DEP-RD-003,Monthly Recurring Deposit,Deposit,Cumulative,TDA
+DEP-CA-004,Business Current Account,Deposit,Transactional,CAA
+DEP-SAV-005,Senior Citizen Savings,Deposit,Saving,SBA
+DEP-FD-006,Short-Term Fixed Deposit,Deposit,Term,TDA
+DEP-RD-007,Daily Recurring Deposit,Deposit,Cumulative,TDA
+DEP-CA-008,Premium Current Account,Deposit,Transactional,PCA
+DEP-SAV-009,Women's Savings Account,Deposit,Saving,SBA
+DEP-FD-010,Golden Fixed Deposit,Deposit,Term,TDA
+LN-PL-011,Instant Personal Loan,Loan,Unsecured,PL
+LN-HL-012,Home Loan,Loan,Secured,HL
+LN-AGRI-013,Kisan Agricultural Loan,Loan,Subsidized,AGRI
+LN-EDU-014,Shiksha Education Loan,Loan,Education,EDU
+LN-SME-015,SME Business Loan,Loan,Working Capital,SME
+LN-VEH-016,Auto Loan,Loan,Vehicle,VEH
+LN-PL-017,Flexi Personal Loan,Loan,Unsecured,PL
+LN-HL-018,Apartment Loan,Loan,Secured,HL
+LN-AGRI-019,Organic Farming Loan,Loan,Subsidized,AGRI
+LN-EDU-020,Study Abroad Loan,Loan,Education,EDU
+CARD-DC-021,NepalPay Debit Card,Card,Payment,DC
+CARD-CC-022,Premium Credit Card,Card,Revolving Credit,CC
+CARD-DC-023,Platinum Debit Card,Card,Payment,DC
+CARD-CC-024,Travel Credit Card,Card,Revolving Credit,CC
+CARD-DC-025,Student Debit Card,Card,Payment,DC
+CARD-CC-026,Business Credit Card,Card,Revolving Credit,CC
+CARD-DC-027,Contactless Debit Card,Card,Payment,DC
+CARD-CC-028,Rewards Credit Card,Card,Revolving Credit,CC
+CARD-DC-029,Senior Citizen Debit Card,Card,Payment,DC
+CARD-CC-030,Fuel Credit Card,Card,Revolving Credit,CC
+DIGI-MW-031,BankMobile Wallet,Digital,Payment,MW
+DIGI-REM-032,Connect IPS Remittance,Digital,Fund Transfer,REM
+DIGI-MW-033,QR Payment Wallet,Digital,Payment,MW
+DIGI-REM-034,NRN Remittance Account,Digital,Fund Transfer,REM
+DIGI-MW-035,Teen Banking App,Digital,Payment,MW
+DIGI-REM-036,Instant Cross-Border Transfer,Digital,Fund Transfer,REM
+DIGI-MW-037,Merchant Wallet,Digital,Payment,MW
+DIGI-REM-038,Corporate Remittance,Digital,Fund Transfer,REM
+DIGI-MW-039,Government Payment Wallet,Digital,Payment,MW
+DIGI-REM-040,Student Remittance,Digital,Fund Transfer,REM
+INV-PEN-041,Nivesh Pension Plan,Investment,Retirement,PEN
+INV-MF-042,Equity Mutual Fund,Investment,Market-Linked,MF
+INV-PEN-043,Voluntary Pension Scheme,Investment,Retirement,PEN
+INV-MF-044,Debt Mutual Fund,Investment,Market-Linked,MF
+INV-PEN-045,Retirement Savings Plan,Investment,Retirement,PEN
+INV-MF-046,Index Fund,Investment,Market-Linked,MF
+INV-PEN-047,Annuity Plan,Investment,Retirement,PEN
+INV-MF-048,Sectoral Mutual Fund,Investment,Market-Linked,MF
+INV-PEN-049,Guaranteed Pension Plan,Investment,Retirement,PEN
+INV-MF-050,International Fund,Investment,Market-Linked,MF
+INS-LIF-051,Term Life Insurance,Insurance,Life,LIF
+INS-HL-052,Health Insurance,Insurance,Medical,HLT
+INS-LIF-053,Endowment Plan,Insurance,Life,LIF
+INS-HL-054,Critical Illness Cover,Insurance,Medical,HLT
+INS-LIF-055,Child Plan,Insurance,Life,LIF
+INS-HL-056,Hospital Cash Plan,Insurance,Medical,HLT
+INS-LIF-057,Whole Life Policy,Insurance,Life,LIF
+INS-HL-058,Accident Cover,Insurance,Medical,HLT
+INS-LIF-059,Retirement Life Plan,Insurance,Life,LIF
+INS-HL-060,Family Health Plan,Insurance,Medical,HLT
+CORP-TRM-061,Trade Finance,Corporate,Trade,TRM
+CORP-TRM-062,Letter of Credit,Corporate,Trade,TRM
+CORP-TRM-063,Export Credit,Corporate,Trade,TRM
+CORP-TRM-064,Import Financing,Corporate,Trade,TRM
+CORP-TRM-065,Working Capital Loan,Corporate,Trade,TRM
+CORP-TRM-066,Bill Discounting,Corporate,Trade,TRM
+CORP-TRM-067,Guarantee Services,Corporate,Trade,TRM
+CORP-TRM-068,Supply Chain Finance,Corporate,Trade,TRM
+CORP-TRM-069,Foreign Currency Loan,Corporate,Trade,TRM
+CORP-TRM-070,Project Financing,Corporate,Trade,TRM
+GOVT-SUB-071,Youth Entrepreneurship Loan,Government,Subsidized,SUB
+GOVT-SUB-072,Women Empowerment Scheme,Government,Subsidized,SUB
+GOVT-SUB-073,Disability Support Loan,Government,Subsidized,SUB
+GOVT-SUB-074,Green Energy Financing,Government,Subsidized,SUB
+GOVT-SUB-075,Rural Development Loan,Government,Subsidized,SUB
+GOVT-SUB-076,Startup Seed Fund,Government,Subsidized,SUB
+GOVT-SUB-077,Agro-Processing Loan,Government,Subsidized,SUB
+GOVT-SUB-078,Education Grant,Government,Subsidized,SUB
+GOVT-SUB-079,Microenterprise Loan,Government,Subsidized,SUB
+GOVT-SUB-080,Tourism Promotion Fund,Government,Subsidized,SUB
+NRI-SAV-081,NRN Savings Account,NRI,Deposit,NRI
+NRI-FD-082,NRN Fixed Deposit,NRI,Term,NRI
+NRI-SAV-083,NRO Savings Account,NRI,Deposit,NRI
+NRI-FD-084,NRO Fixed Deposit,NRI,Term,NRI
+NRI-SAV-085,FCNR Account,NRI,Deposit,NRI
+NRI-FD-086,NRE Fixed Deposit,NRI,Term,NRI
+NRI-SAV-087,Diaspora Savings Plan,NRI,Deposit,NRI
+NRI-FD-088,Foreign Currency Deposit,NRI,Term,NRI
+NRI-SAV-089,Overseas Citizen Account,NRI,Deposit,NRI
+NRI-FD-090,Global NRI Deposit,NRI,Term,NRI
+DIGI-INV-091,Robo-Advisory Platform,Digital,Investment,DINV
+DIGI-INV-092,Stock Trading App,Digital,Investment,DINV
+DIGI-INV-093,ETF Investment Portal,Digital,Investment,DINV
+DIGI-INV-094,IPO Subscription App,Digital,Investment,DINV
+DIGI-INV-095,Digital Gold Platform,Digital,Investment,DINV
+DIGI-INV-096,Crypto Trading Desk,Digital,Investment,DINV
+DIGI-INV-097,Bond Trading Platform,Digital,Investment,DINV
+DIGI-INV-098,REIT Investment Portal,Digital,Investment,DINV
+DIGI-INV-099,Algorithmic Trading Tool,Digital,Investment,DINV
+DIGI-INV-100,ESG Investment App,Digital,Investment,DINV
